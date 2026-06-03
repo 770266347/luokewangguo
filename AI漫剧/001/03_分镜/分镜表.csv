@@ -1,0 +1,13 @@
+﻿"scene_id","duration","location","characters","shot","action","dialogue","image_prompt","notes"
+"001","10","训练场","迪莫","中景","迪莫站在木桩旁，削弱后的折射直接生效在木桩周围，只出现弱弱的棱镜分光","迪莫：以前我这一招叫战术核心。现在怎么像给木桩补光？","Dimo stands beside a wooden training dummy in a Roco Kingdom World magical training field. The weakened Refraction skill appears directly around the dummy as blue prism crystals, soft split rainbow light and small weak star sparkles. Dimo does not cast with hands or paws. No text, no bubbles.","使用 04_图片/scene_001_felt_v1.png"
+"002","10","训练场","彩虹独角兽","登场镜头","彩虹独角兽带着彩虹光登场，气场很足但表情认真","彩虹独角兽：迪莫，这次折射被削，确实有我的一份原因。","Rainbow Unicorn enters a Roco Kingdom World magical training field through rainbow light, four-legged, confident posture, serious expression, not humanoid, no armor warrior, no text, no bubbles.","使用 04_图片/scene_002_felt_v1.png"
+"003","15","训练场","迪莫和彩虹独角兽","双人中景","迪莫和彩虹独角兽同框对话，彩虹独角兽只道歉一次，迪莫吐槽它 PVP 强度离谱","迪莫：你先别动。你一出现，我怕策划又想起折射。
+彩虹独角兽：我在 PVP 里太强势，连累你了。这个锅我认。
+迪莫：你那强度确实离谱，PVP 上谁碰到你都得挨打。","Dimo and Rainbow Unicorn in the same shot, chatting face to face in a magical training field. Dimo teasing, Rainbow Unicorn confident and serious. No text, no speech bubbles.","使用 04_图片/scene_003_felt_v1.png"
+"004","25","训练场","迪莫和彩虹独角兽","收尾双人镜头","两只精灵一起吐槽策划一刀切，最后互相看了一眼哈哈大笑","彩虹独角兽：虽然我一层折射起来就很强，但削弱这件事，策划也不能一刀切吧？
+迪莫：终于说到重点了。
+彩虹独角兽：我启动快，应该调我的体系。结果折射一削，连你这种靠折射吃饭的也一起挨刀。
+迪莫：问题是你在 PVP 超标，怎么我在 PVE 也跟着挨刀？现在我折射一开，像是开了个手电筒。
+彩虹独角兽：我现在也没那么爽了。以前叫彩虹战术，现在像彩虹氛围灯。
+迪莫：你是氛围灯，我是手电筒。咱俩可以组个照明队。
+然后两个精灵哈哈大笑","Dimo and Rainbow Unicorn laughing together in a Roco Kingdom World magical training field, friendly comedy ending, medium two-shot, no text, no bubbles.","使用 04_图片/scene_004_felt_v1.png；合并原 scene_004-006 的吐槽和收尾"

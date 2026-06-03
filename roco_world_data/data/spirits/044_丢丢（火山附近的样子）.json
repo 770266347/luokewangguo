@@ -1,0 +1,28 @@
+{
+  "number": "044",
+  "name": "丢丢",
+  "variant": "火山附近的样子",
+  "display_name": "丢丢（火山附近的样子）",
+  "detail_status": "detail",
+  "attributes": [
+    "草",
+    "火"
+  ],
+  "stats_total": 0,
+  "hp": 0,
+  "physical_attack": 0,
+  "magic_attack": 0,
+  "physical_defense": 0,
+  "magic_defense": 0,
+  "speed": 0,
+  "skills": [],
+  "bloodline_skills": [],
+  "skill_stone_skills": [],
+  "evolution_chain": "16 / 36",
+  "obtain_method": "",
+  "trait_name": "诈死",
+  "trait_description": "自己力竭时，少损失1点魔力。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/0/0b/ruciu7ybhb244ff3iz2ukedib2ux4h0.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E4%B8%A2%E4%B8%A2%EF%BC%88%E7%81%AB%E5%B1%B1%E9%99%84%E8%BF%91%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%89",
+  "source_updated_at": "2026-03-26"
+}

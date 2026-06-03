@@ -1,0 +1,514 @@
+{
+  "number": "345",
+  "name": "幽星光",
+  "variant": null,
+  "display_name": "幽星光",
+  "detail_status": "detail",
+  "attributes": [
+    "幻"
+  ],
+  "stats_total": 319,
+  "hp": 49,
+  "physical_attack": 21,
+  "magic_attack": 63,
+  "physical_defense": 48,
+  "magic_defense": 63,
+  "speed": 75,
+  "skills": [
+    {
+      "level": "1",
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": "1",
+      "name": "鸣叫",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 0,
+      "category": "魔攻",
+      "power": 40,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "6",
+      "name": "针状物",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，3连击。"
+    },
+    {
+      "level": "8",
+      "name": "风隐",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方和自己均脱离，先手-1。"
+    },
+    {
+      "level": "13",
+      "name": "先发制人",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 55,
+      "description": "✦造成物理伤害，先手+1。"
+    },
+    {
+      "level": "17",
+      "name": "乘风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+120。"
+    },
+    {
+      "level": "21",
+      "name": "大爆炸",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "27",
+      "name": "超维投射",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层星陨印记。"
+    },
+    {
+      "level": "30",
+      "name": "回旋风暴",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "31",
+      "name": "二律背反",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得3层星陨印记，应对防御：额外使敌方星陨印记层数翻倍。"
+    },
+    {
+      "level": "34",
+      "name": "坍缩",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 85,
+      "description": "✦造成魔伤，若击败敌方，自己获得魔攻+70%。"
+    },
+    {
+      "level": "38",
+      "name": "翼击",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 50,
+      "description": "✦造成魔伤，迅捷。"
+    },
+    {
+      "level": "40",
+      "name": "错乱",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 65,
+      "description": "✦造成魔伤，应对状态：敌方获得3层星陨印记。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冷风",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "尾后针",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "念力膨胀",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火爪",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "磁干扰",
+      "attributes": [
+        "电"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "离子震荡",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，本技能位于3号位时威力+40，传动1。"
+    },
+    {
+      "level": null,
+      "name": "肥皂泡",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "荆棘爪",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "虹光冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "贯手",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "风矢",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "魅惑",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "黑手",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 45,
+      "description": "✦造成魔伤，2连击。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "借用",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成己方队伍中其他精灵的技能。"
+    },
+    {
+      "level": null,
+      "name": "倾泻",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，若本次攻击未被防御技能应对，则驱散双方所有印记。"
+    },
+    {
+      "level": null,
+      "name": "嘲弄",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+90%，若敌方本回合更换精灵，自己获得速度+70。"
+    },
+    {
+      "level": null,
+      "name": "四维降解",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 7,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦造成魔伤，敌方每有1层印记，本技能能耗-1。"
+    },
+    {
+      "level": null,
+      "name": "多维击打",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 15,
+      "description": "✦造成魔伤，1连击，敌方每有1层星陨印记，本次技能连击数+1。"
+    },
+    {
+      "level": null,
+      "name": "天光",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 95,
+      "description": "✦造成魔伤，本技能系别和天气系别相同。"
+    },
+    {
+      "level": null,
+      "name": "心灵洞悉",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 7,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得星陨印记，获得层数等于敌方印记层数。"
+    },
+    {
+      "level": null,
+      "name": "恐吓",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "追打",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 75,
+      "description": "✦造成魔伤，1连击，应对状态：本技能变为3连击。"
+    },
+    {
+      "level": null,
+      "name": "退化",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得1层萌化。"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": null,
+      "name": "阻断",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦造成魔伤，应对状态：额外打断被应对技能。"
+    }
+  ],
+  "evolution_chain": "21 / 38",
+  "obtain_method": "行踪神秘",
+  "trait_name": "守望星",
+  "trait_description": "触发星陨时消耗一半层数，仍造成满层伤害。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/8/88/f8eryhmo33y1cnnw7vl63hn3khncqhe.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%B9%BD%E6%98%9F%E5%85%89",
+  "source_updated_at": "2026-04-02"
+}

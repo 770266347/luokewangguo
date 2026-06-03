@@ -1,0 +1,526 @@
+{
+  "number": "046",
+  "name": "卡瓦重",
+  "variant": "雪山附近的样子",
+  "display_name": "卡瓦重（雪山附近的样子）",
+  "detail_status": "detail",
+  "attributes": [
+    "草",
+    "冰"
+  ],
+  "stats_total": 446,
+  "hp": 77,
+  "physical_attack": 68,
+  "magic_attack": 14,
+  "physical_defense": 79,
+  "magic_defense": 73,
+  "speed": 135,
+  "skills": [
+    {
+      "level": "1",
+      "name": "冰锥",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 40,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "1",
+      "name": "力量增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+100%。"
+    },
+    {
+      "level": "1",
+      "name": "筛管奔流",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，自己生命大于80%时，本次技能威力+75。"
+    },
+    {
+      "level": "3",
+      "name": "冰捆缚",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦2连击，每次连击敌方获得全技能能耗+1。"
+    },
+    {
+      "level": "4",
+      "name": "顶端优势",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "11",
+      "name": "丰饶",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻和魔攻+140%。"
+    },
+    {
+      "level": "17",
+      "name": "暴风雪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 85,
+      "description": "✦造成物伤，敌方获得1层冻结。"
+    },
+    {
+      "level": "23",
+      "name": "速冻",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得2层减速印记。"
+    },
+    {
+      "level": "26",
+      "name": "天旋地转",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦造成物理伤害，先手+1，迸发：本次技能威力+30。"
+    },
+    {
+      "level": "28",
+      "name": "盛开",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+30，应对防御：改为威力+60。"
+    },
+    {
+      "level": "33",
+      "name": "孢子爆散",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，1连击，每次使用后，本技能连击数永久+2。"
+    },
+    {
+      "level": "34",
+      "name": "冰雹",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 105,
+      "description": "✦造成物伤，应对状态：额外使敌方获得全技能能耗+3。"
+    },
+    {
+      "level": "37",
+      "name": "抽枝",
+      "attributes": [
+        "草"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 90,
+      "description": "✦造成物伤，应对状态：自己回复50%生命和5能量。"
+    },
+    {
+      "level": "40",
+      "name": "冬至",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 7,
+      "category": "状态",
+      "power": 0,
+      "description": "✦将天气改为暴风雪，持续8回合。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冰爪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "噬心",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "恶能量",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星云漩涡",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "械斗",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦造成物伤，本技能位于1号位时威力+60，传动1。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "泡沫",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰冲锋",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "猛烈撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 65,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "球状闪电",
+      "attributes": [
+        "电"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "缠丝劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "荆棘爪",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "风矢",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "冰晶坠",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 90,
+      "description": "✦造成物伤，敌方获得全技能能耗+1。"
+    },
+    {
+      "level": null,
+      "name": "取念",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成敌方任意精灵的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "垂死反击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，自己每失去5%生命，本次技能威力+5。"
+    },
+    {
+      "level": null,
+      "name": "富养化",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦为场下每个精灵回复3能量。"
+    },
+    {
+      "level": null,
+      "name": "尾后针",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "摇篮曲",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 5,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得全技能能耗+3，应对防御：额外造成打断，且敌方下回合获得眩晕。"
+    },
+    {
+      "level": null,
+      "name": "晒太阳",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散敌方所有增益。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "虫击",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 90,
+      "description": "✦造成物伤，应对状态：本次技能威力变为2倍，无视敌方系别抵抗。"
+    },
+    {
+      "level": null,
+      "name": "虫群智慧",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦己方队伍获得2次随机奉献。"
+    },
+    {
+      "level": null,
+      "name": "连续爪击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，2连击，应对状态：本次技能连击数翻倍。"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": null,
+      "name": "魔爪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，自己回复1能量。"
+    }
+  ],
+  "evolution_chain": "16 / 36",
+  "obtain_method": "常见于草地、沙地、雪山",
+  "trait_name": "诈死",
+  "trait_description": "自己力竭时，少损失1点魔力。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/4/47/it101lv362eif65za2mmgzo83xbevhe.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%8D%A1%E7%93%A6%E9%87%8D%EF%BC%88%E9%9B%AA%E5%B1%B1%E9%99%84%E8%BF%91%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%89",
+  "source_updated_at": "2026-04-02"
+}

@@ -1,0 +1,537 @@
+{
+  "number": "359",
+  "name": "音碟吼",
+  "variant": null,
+  "display_name": "音碟吼",
+  "detail_status": "detail",
+  "attributes": [
+    "普通",
+    "机械"
+  ],
+  "stats_total": 661,
+  "hp": 116,
+  "physical_attack": 94,
+  "magic_attack": 151,
+  "physical_defense": 63,
+  "magic_defense": 127,
+  "speed": 110,
+  "skills": [
+    {
+      "level": "1",
+      "name": "同频",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 125,
+      "description": "✦造成魔法伤害，巧变：魔攻技能。"
+    },
+    {
+      "level": "1",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "1",
+      "name": "音波弹",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦造成魔伤，1连击。"
+    },
+    {
+      "level": "7",
+      "name": "金属噪音",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "8",
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": "11",
+      "name": "能量守恒",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：两侧技能能耗永久-1。"
+    },
+    {
+      "level": "17",
+      "name": "音爆",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 130,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "23",
+      "name": "杠杆置换",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复2能量，交换两侧技能位置。"
+    },
+    {
+      "level": "24",
+      "name": "吓退",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：敌方脱离。"
+    },
+    {
+      "level": "27",
+      "name": "铁蒺藜",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 85,
+      "description": "✦造成魔伤，应对状态：本次伤害翻倍。"
+    },
+    {
+      "level": "33",
+      "name": "聒噪",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得全攻击技能能耗+2，持续3回合。"
+    },
+    {
+      "level": "34",
+      "name": "无畏之心",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 5,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤100%，应对攻击：减免的伤害变为回复自己生命，且本技能能耗永久+2。"
+    },
+    {
+      "level": "36",
+      "name": "追打",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 75,
+      "description": "✦造成魔伤，1连击，应对状态：本技能变为3连击。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冥想",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：敌方获得2层星陨印记。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "反击拳",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击，若后手攻击，改为3连击。"
+    },
+    {
+      "level": null,
+      "name": "噬心",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "械斗",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦造成物伤，本技能位于1号位时威力+60，传动1。"
+    },
+    {
+      "level": null,
+      "name": "水泡盾",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己获得魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "溃烂触碰",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰护盾",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：敌方获得6层灼烧。"
+    },
+    {
+      "level": null,
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "等价交换",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤90%，应对攻击：自己获得50%吸血。"
+    },
+    {
+      "level": null,
+      "name": "羽翼庇护",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：自己获得连击数+2。"
+    },
+    {
+      "level": null,
+      "name": "虚化",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己获得魔防+70%。"
+    },
+    {
+      "level": null,
+      "name": "蜡质膜",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：回复3能量。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "集中",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己回合结束返场。"
+    },
+    {
+      "level": null,
+      "name": "雪替身",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：回复能量，回复值等于被应对技能能耗的2倍。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "三连破",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+30%，3连击。"
+    },
+    {
+      "level": null,
+      "name": "乱打",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 25,
+      "description": "✦造成魔伤，5连击。"
+    },
+    {
+      "level": null,
+      "name": "伺机而动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下一次攻击时，技能威力+70。"
+    },
+    {
+      "level": null,
+      "name": "倾泻",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，若本次攻击未被防御技能应对，则驱散双方所有印记。"
+    },
+    {
+      "level": null,
+      "name": "午夜噪音",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 20,
+      "description": "✦造成魔伤，5连击。"
+    },
+    {
+      "level": null,
+      "name": "埋伏",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，3连击，若敌方本回合更换精灵，本次技能连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "微型斥候",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 75,
+      "description": "✦造成魔伤，自己每受到一次抵抗伤害，本技能威力永久+20。"
+    },
+    {
+      "level": null,
+      "name": "恐吓",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "打鼾",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 6,
+      "category": "魔攻",
+      "power": 165,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "排气",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得全技能威力-20，若自己受到抵抗伤害，敌方额外获得全技能威力-20，使用后重置"
+    },
+    {
+      "level": null,
+      "name": "有效预防",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤50%，应对攻击：下一次行动获得先手+1。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "离子震荡",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，本技能位于3号位时威力+40，传动1。"
+    },
+    {
+      "level": null,
+      "name": "防反",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：自己获得物攻和魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "阻断",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 75,
+      "description": "✦造成魔伤，应对状态：额外打断被应对技能。"
+    }
+  ],
+  "evolution_chain": null,
+  "obtain_method": "行踪神秘",
+  "trait_name": "换碟",
+  "trait_description": "自己携带的音波弹​/音爆/金属​噪音​/午​夜噪​音​​威力​提升，​且​获得​<desc_id=3011>巧变</>​：同系别技能。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/7/70/as6gc3vymzfws67futqaq3ymyr1ftbl.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E9%9F%B3%E7%A2%9F%E5%90%BC",
+  "source_updated_at": "2026-05-26"
+}

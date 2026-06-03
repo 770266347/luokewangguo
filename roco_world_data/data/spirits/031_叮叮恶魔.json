@@ -1,0 +1,515 @@
+{
+  "number": "031",
+  "name": "叮叮恶魔",
+  "variant": null,
+  "display_name": "叮叮恶魔",
+  "detail_status": "detail",
+  "attributes": [
+    "恶",
+    "翼"
+  ],
+  "stats_total": 598,
+  "hp": 125,
+  "physical_attack": 140,
+  "magic_attack": 70,
+  "physical_defense": 89,
+  "magic_defense": 69,
+  "speed": 105,
+  "skills": [
+    {
+      "level": "1",
+      "name": "乘风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+120。"
+    },
+    {
+      "level": "1",
+      "name": "魔爪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，自己回复1能量。"
+    },
+    {
+      "level": "6",
+      "name": "抓挠",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 35,
+      "description": "✦造成物伤，自己回复1能量。"
+    },
+    {
+      "level": "8",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "10",
+      "name": "贪婪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得100%吸血。"
+    },
+    {
+      "level": "13",
+      "name": "鹰爪",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "20",
+      "name": "撕咬",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，3连击，若自己的生命低于50%，本次技能连击数+2。"
+    },
+    {
+      "level": "23",
+      "name": "暗箱操作",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得双攻和双防-100%，应对防御：改为敌方获得双攻和双防-100%。"
+    },
+    {
+      "level": "29",
+      "name": "疾风刺",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，1连击，若先于敌方攻击，改为3连击。"
+    },
+    {
+      "level": "30",
+      "name": "扇风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 75,
+      "description": "✦造成物伤，若先于敌方攻击，本次技能威力+50%。"
+    },
+    {
+      "level": "37",
+      "name": "趁火打劫",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 35,
+      "description": "✦造成物伤，2连击，若击败敌方，本技能连击数永久+2。"
+    },
+    {
+      "level": "38",
+      "name": "暗突袭",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 70,
+      "description": "✦造成物伤，吸血50%，应对状态：本次技能威力翻倍。"
+    },
+    {
+      "level": "40",
+      "name": "龙卷风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 5,
+      "category": "物攻",
+      "power": 70,
+      "description": "✦造成物伤，迅捷，应对状态：本次技能威力变为1.5倍。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冰爪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "噬心",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星云漩涡",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "械斗",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦造成物伤，本技能位于1号位时威力+60，传动1。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "泡沫",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰冲锋",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "球状闪电",
+      "attributes": [
+        "电"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "缠丝劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "花香",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "诋毁",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "风矢",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "三连破",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+30%，3连击。"
+    },
+    {
+      "level": null,
+      "name": "乘胜追击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 40,
+      "description": "✦造成物伤，1连击，每次使用后，本技能连击数永久+1。"
+    },
+    {
+      "level": null,
+      "name": "偷袭",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 85,
+      "description": "✦造成物伤，应对状态：本次技能威力变为3倍。"
+    },
+    {
+      "level": null,
+      "name": "复写",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成自己未携带的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "幻象",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "彼岸之手",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 10,
+      "category": "物攻",
+      "power": 150,
+      "description": "✦造成物伤，自己每失去10%生命，本技能能耗-1。"
+    },
+    {
+      "level": null,
+      "name": "快速移动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，应对防御：改为速度+160。"
+    },
+    {
+      "level": null,
+      "name": "惊吓盒子",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，应对状态：使敌方失去6能量。"
+    },
+    {
+      "level": null,
+      "name": "撕裂",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 85,
+      "description": "✦造成物伤，应对状态：本次攻击吸血100%。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "羽化加速",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+20，迅捷。"
+    },
+    {
+      "level": null,
+      "name": "连续毒针",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 15,
+      "description": "✦造成物伤，2连击，每次连击使敌方获得1层中毒。"
+    },
+    {
+      "level": null,
+      "name": "降灵",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得1层降灵印记。"
+    }
+  ],
+  "evolution_chain": "40",
+  "obtain_method": "监管区",
+  "trait_name": "渴求",
+  "trait_description": "入场时获得50%吸血。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/0/0b/o9iqtz0rdzb2rkqkewx4v29qya3rknq.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%8F%AE%E5%8F%AE%E6%81%B6%E9%AD%94",
+  "source_updated_at": "2026-05-18-s2-balance-followup"
+}

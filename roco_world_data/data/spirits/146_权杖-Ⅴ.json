@@ -1,0 +1,580 @@
+{
+  "number": "146",
+  "name": "权杖-Ⅴ",
+  "variant": null,
+  "display_name": "权杖-Ⅴ",
+  "detail_status": "detail",
+  "attributes": [
+    "机械"
+  ],
+  "stats_total": 652,
+  "hp": 103,
+  "physical_attack": 105,
+  "magic_attack": 97,
+  "physical_defense": 136,
+  "magic_defense": 136,
+  "speed": 75,
+  "skills": [
+    {
+      "level": "1",
+      "name": "杠杆置换",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复2能量，交换两侧技能位置。"
+    },
+    {
+      "level": "1",
+      "name": "离子震荡",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，本技能位于3号位时威力+40，传动1。"
+    },
+    {
+      "level": "1",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "4",
+      "name": "械斗",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦造成物伤，本技能位于1号位时威力+60，传动1。"
+    },
+    {
+      "level": "9",
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": "13",
+      "name": "磁暴",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，本技能位于1号或3号位时威力+30，传动1。"
+    },
+    {
+      "level": "17",
+      "name": "晒太阳",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散敌方所有增益。"
+    },
+    {
+      "level": "21",
+      "name": "无畏之心",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 5,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤100%，应对攻击：减免的伤害变为回复自己生命，且本技能能耗永久+2。"
+    },
+    {
+      "level": "22",
+      "name": "钢铁洪流",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 70,
+      "description": "✦造成物伤，本技能位于1号位时威力+90，传动2。"
+    },
+    {
+      "level": "23",
+      "name": "啮合传递",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，本技能位于1号或3号位时额外获得物攻+60%，传动1。"
+    },
+    {
+      "level": "32",
+      "name": "加固",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物防+140%。"
+    },
+    {
+      "level": "33",
+      "name": "棘刺",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得1层棘刺印记。"
+    },
+    {
+      "level": "39",
+      "name": "彗星",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "魔攻",
+      "power": 240,
+      "description": "✦造成魔伤，每失去5%生命，本次技能威力-10，使用后消耗全部生命。"
+    },
+    {
+      "level": "40",
+      "name": "鼓劲",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔防+170%。"
+    },
+    {
+      "level": "43",
+      "name": "轴承支撑",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦主动：本技能被动额外-1能耗，被动：两侧技能能耗-1，传动1。"
+    },
+    {
+      "level": "49",
+      "name": "联动装置",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦使用后两侧技能的威力永久+20，应对防御：变为威力永久+30。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "休息回复",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复30%生命。"
+    },
+    {
+      "level": null,
+      "name": "假寐",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复2能量，己方队伍获得1次奉献：能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "勾魂",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦偷取敌方3能量。"
+    },
+    {
+      "level": null,
+      "name": "化劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+40。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "引燃",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得10层灼烧。"
+    },
+    {
+      "level": null,
+      "name": "徒长",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复10能量。"
+    },
+    {
+      "level": null,
+      "name": "毒孢子",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得5层中毒。"
+    },
+    {
+      "level": null,
+      "name": "泥浆铠甲",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻和物防+60%，应对防御：额外使自己的增益翻倍。"
+    },
+    {
+      "level": null,
+      "name": "甜心续航",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己和敌方获得萌化：回复40%生命和4能量。"
+    },
+    {
+      "level": null,
+      "name": "羽化加速",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+20，迅捷。"
+    },
+    {
+      "level": null,
+      "name": "蓄水",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下次使用的技能能耗-6。"
+    },
+    {
+      "level": null,
+      "name": "贪婪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得100%吸血。"
+    },
+    {
+      "level": null,
+      "name": "超维投射",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层星陨印记。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "金属噪音",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "霜降",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层冻结。"
+    },
+    {
+      "level": null,
+      "name": "麻痹",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "冰捆缚",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦2连击，每次连击敌方获得全技能能耗+1。"
+    },
+    {
+      "level": null,
+      "name": "冰晶坠",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 90,
+      "description": "✦造成物伤，敌方获得全技能能耗+1。"
+    },
+    {
+      "level": null,
+      "name": "冰爪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "嘲弄",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+90%，若敌方本回合更换精灵，自己获得速度+70。"
+    },
+    {
+      "level": null,
+      "name": "复写",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成自己未携带的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "幻象",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "应激反应",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复25%生命，应对防御：改为回复50%生命。"
+    },
+    {
+      "level": null,
+      "name": "恐吓",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "恶作剧",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方失去3能量，应对防御：改为敌方失去6能量。"
+    },
+    {
+      "level": null,
+      "name": "打雪仗",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 45,
+      "description": "✦造成魔伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "摇篮曲",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 5,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得全技能能耗+3，应对防御：额外造成打断，且敌方下回合获得眩晕。"
+    },
+    {
+      "level": null,
+      "name": "有效预防",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤50%，应对攻击：下一次行动获得先手+1。"
+    },
+    {
+      "level": null,
+      "name": "瞬间零度",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦本回合敌方使用的技能能耗+3，应对防御：改为全技能能耗+3。"
+    },
+    {
+      "level": null,
+      "name": "重击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 110,
+      "description": "✦造成物伤，每次使用后，本技能能耗永久+1。"
+    },
+    {
+      "level": null,
+      "name": "钢钻",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 0,
+      "description": "✦造成物伤，技能威力为两侧技能威力和的三分之一，传动1。"
+    },
+    {
+      "level": null,
+      "name": "雪球",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得速度-90。"
+    }
+  ],
+  "evolution_chain": "40",
+  "obtain_method": "常见于遗迹周边",
+  "trait_name": "机械变式",
+  "trait_description": "自己携带的技能每回合位置变化时，该技能能耗-1。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/1/13/t0s6mddc58b2nr8ezmolme9pn86uty5.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E6%9D%83%E6%9D%96-%E2%85%A4",
+  "source_updated_at": "2026-04-02"
+}

@@ -1,0 +1,536 @@
+{
+  "number": "227",
+  "name": "奔乐鹿",
+  "variant": null,
+  "display_name": "奔乐鹿",
+  "detail_status": "detail",
+  "attributes": [
+    "电"
+  ],
+  "stats_total": 424,
+  "hp": 73,
+  "physical_attack": 79,
+  "magic_attack": 27,
+  "physical_defense": 86,
+  "magic_defense": 63,
+  "speed": 96,
+  "skills": [
+    {
+      "level": "1",
+      "name": "导电撞击",
+      "attributes": [
+        "电"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 40,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "1",
+      "name": "过载回路",
+      "attributes": [
+        "电"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦回合结束自己返场，下回合所选技能使用次数+1。"
+    },
+    {
+      "level": "6",
+      "name": "离子火花",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "12",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "23",
+      "name": "晒太阳",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散敌方所有增益。"
+    },
+    {
+      "level": "26",
+      "name": "电弧",
+      "attributes": [
+        "电"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，迸发：本次技能威力+40。"
+    },
+    {
+      "level": "30",
+      "name": "力量增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+100%。"
+    },
+    {
+      "level": "34",
+      "name": "先发制人",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 55,
+      "description": "✦造成物理伤害，先手+1。"
+    },
+    {
+      "level": "35",
+      "name": "远程访问",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦使敌方精灵返场。"
+    },
+    {
+      "level": "38",
+      "name": "闪击折返",
+      "attributes": [
+        "电"
+      ],
+      "cost": 5,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦造成物伤，2连击，自己脱离。"
+    },
+    {
+      "level": "39",
+      "name": "增程电池",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得1层蓄电印记。"
+    },
+    {
+      "level": "45",
+      "name": "连续爪击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，2连击，应对状态：本次技能连击数翻倍。"
+    },
+    {
+      "level": "49",
+      "name": "强制重启",
+      "attributes": [
+        "电"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，应对状态：回合结束时使敌方精灵返场。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "噬心",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "恶能量",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "折线冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星云漩涡",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "械斗",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦造成物伤，本技能位于1号位时威力+60，传动1。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "泡沫",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰冲锋",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "缠丝劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "花香",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "触电",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "霜降",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层冻结。"
+    },
+    {
+      "level": null,
+      "name": "风矢",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "借用",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成己方队伍中其他精灵的技能。"
+    },
+    {
+      "level": null,
+      "name": "倾泻",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，若本次攻击未被防御技能应对，则驱散双方所有印记。"
+    },
+    {
+      "level": null,
+      "name": "偷袭",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 85,
+      "description": "✦造成物伤，应对状态：本次技能威力变为3倍。"
+    },
+    {
+      "level": null,
+      "name": "光刃",
+      "attributes": [
+        "光"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 120,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "当头棒喝",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，若敌方本回合更换精灵，本次技能威力+100。"
+    },
+    {
+      "level": null,
+      "name": "撕咬",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，3连击，若自己的生命低于50%，本次技能连击数+2。"
+    },
+    {
+      "level": null,
+      "name": "暗突袭",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 70,
+      "description": "✦造成物伤，吸血50%，应对状态：本次技能威力翻倍。"
+    },
+    {
+      "level": null,
+      "name": "有效预防",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤50%，应对攻击：下一次行动获得先手+1。"
+    },
+    {
+      "level": null,
+      "name": "泥浆铠甲",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻和物防+60%，应对防御：额外使自己的增益翻倍。"
+    },
+    {
+      "level": null,
+      "name": "漫反射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每种系别中的至多1个技能，威力+35。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "裂石",
+      "attributes": [
+        "地"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 95,
+      "description": "✦造成物伤，应对状态：敌方获得物防-80%。"
+    },
+    {
+      "level": null,
+      "name": "贪婪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得100%吸血。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "震击",
+      "attributes": [
+        "地"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成伤害，敌方获得连击数-3。"
+    }
+  ],
+  "evolution_chain": "28 / 40",
+  "obtain_method": "常见于山地",
+  "trait_name": "蓄电池",
+  "trait_description": "每入场1次，永久获得双攻+20%。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/3/38/2ggk766trhcl4o1ubr9f26mtv4l32y2.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%A5%94%E4%B9%90%E9%B9%BF",
+  "source_updated_at": "2026-04-02"
+}

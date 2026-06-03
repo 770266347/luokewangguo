@@ -1,0 +1,570 @@
+{
+  "number": "195",
+  "name": "呆小路",
+  "variant": null,
+  "display_name": "呆小路",
+  "detail_status": "detail",
+  "attributes": [
+    "草",
+    "萌"
+  ],
+  "stats_total": 380,
+  "hp": 52,
+  "physical_attack": 60,
+  "magic_attack": 64,
+  "physical_defense": 68,
+  "magic_defense": 79,
+  "speed": 57,
+  "skills": [
+    {
+      "level": "1",
+      "name": "示弱",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得萌化：速度永久+150。"
+    },
+    {
+      "level": "1",
+      "name": "种子弹",
+      "attributes": [
+        "草"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，自己回复1能量。"
+    },
+    {
+      "level": "1",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "3",
+      "name": "花香",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "7",
+      "name": "击鼓传花",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己脱离，下个入场精灵继承自己增益。"
+    },
+    {
+      "level": "13",
+      "name": "魅惑",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "17",
+      "name": "花炮",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦2连击，每次连击自己获得魔攻+60%。"
+    },
+    {
+      "level": "23",
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "29",
+      "name": "孢子",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得1层寄生。"
+    },
+    {
+      "level": "30",
+      "name": "孢子爆散",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，1连击，每次使用后，本技能连击数永久+2。"
+    },
+    {
+      "level": "37",
+      "name": "光合作用",
+      "attributes": [
+        "草"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得1层光合印记。"
+    },
+    {
+      "level": "38",
+      "name": "践踏",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 130,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "39",
+      "name": "盛开",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+30，应对防御：改为威力+60。"
+    },
+    {
+      "level": "49",
+      "name": "月光合奏",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，1连击，双方携带的所有精灵每有1层萌化，本次技能连击数+1。"
+    },
+    {
+      "level": "50",
+      "name": "光能聚集",
+      "attributes": [
+        "草"
+      ],
+      "cost": 7,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦造成魔伤，每次使用其他草系技能后，本技能威力永久+60。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "假寐",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复2能量，己方队伍获得1次奉献：能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "勾魂",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦偷取敌方3能量。"
+    },
+    {
+      "level": null,
+      "name": "化劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+40。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "啮合传递",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，本技能位于1号或3号位时额外获得物攻+60%，传动1。"
+    },
+    {
+      "level": null,
+      "name": "引燃",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得10层灼烧。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "毒孢子",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得5层中毒。"
+    },
+    {
+      "level": null,
+      "name": "泥浆铠甲",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻和物防+60%，应对防御：额外使自己的增益翻倍。"
+    },
+    {
+      "level": null,
+      "name": "羽化加速",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+20，迅捷。"
+    },
+    {
+      "level": null,
+      "name": "荆棘爪",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "蓄水",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下次使用的技能能耗-6。"
+    },
+    {
+      "level": null,
+      "name": "虹光冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "贪婪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得100%吸血。"
+    },
+    {
+      "level": null,
+      "name": "超维投射",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层星陨印记。"
+    },
+    {
+      "level": null,
+      "name": "霜降",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层冻结。"
+    },
+    {
+      "level": null,
+      "name": "飞吻",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "麻痹",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "三连破",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+30%，3连击。"
+    },
+    {
+      "level": null,
+      "name": "借用",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成己方队伍中其他精灵的技能。"
+    },
+    {
+      "level": null,
+      "name": "快速移动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，应对防御：改为速度+160。"
+    },
+    {
+      "level": null,
+      "name": "晒太阳",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散敌方所有增益。"
+    },
+    {
+      "level": null,
+      "name": "氧输送",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复4能量，并获得魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "生日蛋糕",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散自己的减益，自己的增益翻倍。"
+    },
+    {
+      "level": null,
+      "name": "破罐破摔",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦造成魔伤，自己有减益时，本次技能威力+60。"
+    },
+    {
+      "level": null,
+      "name": "纤维化",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己获得物防+70%。"
+    },
+    {
+      "level": null,
+      "name": "绵里藏针",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 50,
+      "description": "✦造成魔伤，若敌方上回合没受到技能伤害，本技能威力永久+30。"
+    },
+    {
+      "level": null,
+      "name": "芳香诱引",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3，应对防御：额外造成打断，且敌方下回合获得眩晕。"
+    },
+    {
+      "level": null,
+      "name": "赤子之心",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得萌化：全技能能耗永久-3。"
+    },
+    {
+      "level": null,
+      "name": "防反",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：自己获得物攻和魔攻+40%。"
+    },
+    {
+      "level": null,
+      "name": "鼓劲",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔防+170%。"
+    },
+    {
+      "level": null,
+      "name": "龙之利爪",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 130,
+      "description": "✦蓄力，造成物伤并吸血50%。"
+    },
+    {
+      "level": null,
+      "name": "龙吟",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦蓄力，自己获得双攻+100%和速度+60。"
+    }
+  ],
+  "evolution_chain": "26 / 40",
+  "obtain_method": "常见于草地、山林",
+  "trait_name": "营养液泡",
+  "trait_description": "获得增益时，额外获得层数+2。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/b/be/4zu0yqt23bt4cva2bswky1q5ivje1tw.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%91%86%E5%B0%8F%E8%B7%AF",
+  "source_updated_at": "2026-04-02"
+}

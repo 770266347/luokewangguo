@@ -1,0 +1,5 @@
+title,category,source_type,source_url,license_status,action
+魔法时刻,洛克王国：世界相关主题曲,official_or_platform_publish,QQ音乐/网易云/官方视频平台页面,platform_playback_only,记录曲目信息；不抓取音频
+洛克王国 BGM 合集,游戏原声/玩家整理,bilibili_or_fan_upload,B站搜索结果/合集视频,unclear_or_unlicensed,只作参考；不抽音频
+洛克王国原声网盘合集,游戏原声/玩家整理,third_party_cloud_drive,第三方网盘或下载站,unclear_or_unlicensed,不下载入库
+已购入或自有授权洛克王国音频,用户自有素材,user_provided,本地文件,user_provided_license,可放入 licensed_audio 并补充来源说明

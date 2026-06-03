@@ -1,0 +1,25 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,42,&H00FFFFFF,&H000000FF,&H00202020,&H99000000,-1,0,0,0,100,100,0,0,1,4,1,2,70,70,44,1
+Style: Dim,Microsoft YaHei,34,&H00E8F4FF,&H000000FF,&H00202020,&H99000000,-1,0,0,0,100,100,0,0,1,3,1,2,70,70,104,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:03.88,Default,,0,0,0,,{\fad(120,120)}蓝白色小精灵：以前我这一招叫战术核心。
+Dialogue: 0,0:00:04.31,0:00:07.94,Default,,0,0,0,,{\fad(120,120)}蓝白色小精灵：现在怎么像给木桩补光？
+Dialogue: 0,0:00:08.37,0:00:12.00,Default,,0,0,0,,{\fad(120,120)}彩虹独角兽：迪莫，这次折射被削，\N确实有我的一份原因。
+Dialogue: 0,0:00:12.43,0:00:16.07,Default,,0,0,0,,{\fad(120,120)}蓝白色小精灵：你先别动。你一出现，\N我怕策划又想起折射。
+Dialogue: 0,0:00:16.50,0:00:20.13,Default,,0,0,0,,{\fad(120,120)}彩虹独角兽：我在 PVP 里太强势，连累你了。\N这个锅我认。
+Dialogue: 0,0:00:20.56,0:00:24.19,Default,,0,0,0,,{\fad(120,120)}蓝白色小精灵：你那强度确实离谱，\NPVP 上谁碰到你都得挨打。
+Dialogue: 0,0:00:24.62,0:00:28.26,Default,,0,0,0,,{\fad(120,120)}彩虹独角兽：虽然我一层折射起来就很强，\N但削弱这件事，策划也不能一刀切吧？
+Dialogue: 0,0:00:28.69,0:00:32.32,Default,,0,0,0,,{\fad(120,120)}蓝白色小精灵：终于说到重点了。
+Dialogue: 0,0:00:32.75,0:00:36.38,Default,,0,0,0,,{\fad(120,120)}彩虹独角兽：我启动快，应该调我的体系。\N结果折射一削，连你也一起挨刀。
+Dialogue: 0,0:00:36.81,0:00:40.45,Default,,0,0,0,,{\fad(120,120)}蓝白色小精灵：问题是你在 PVP 超标，怎么我在 PVE 也跟着挨刀？\N现在我折射一开，像是开了个手电筒。
+Dialogue: 0,0:00:40.88,0:00:44.51,Default,,0,0,0,,{\fad(120,120)}彩虹独角兽：我现在也没那么爽了。\N以前叫彩虹战术，现在像彩虹氛围灯。
+Dialogue: 0,0:00:44.94,0:00:48.57,Default,,0,0,0,,{\fad(120,120)}蓝白色小精灵：你是氛围灯，我是手电筒。\N咱俩可以组个照明队。

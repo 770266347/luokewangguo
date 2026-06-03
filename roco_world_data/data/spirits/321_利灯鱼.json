@@ -1,0 +1,526 @@
+{
+  "number": "321",
+  "name": "利灯鱼",
+  "variant": null,
+  "display_name": "利灯鱼",
+  "detail_status": "detail",
+  "attributes": [
+    "水",
+    "电"
+  ],
+  "stats_total": 626,
+  "hp": 128,
+  "physical_attack": 68,
+  "magic_attack": 138,
+  "physical_defense": 71,
+  "magic_defense": 116,
+  "speed": 105,
+  "skills": [
+    {
+      "level": "1",
+      "name": "水弹",
+      "attributes": [
+        "水"
+      ],
+      "cost": 0,
+      "category": "魔攻",
+      "power": 40,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "1",
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": "2",
+      "name": "超导加速",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，自己获得速度+30。"
+    },
+    {
+      "level": "10",
+      "name": "加大功率",
+      "attributes": [
+        "电"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己脱离，替换入场的精灵回复8能量。"
+    },
+    {
+      "level": "13",
+      "name": "能量炮",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 50,
+      "description": "✦造成魔伤，2连击。"
+    },
+    {
+      "level": "20",
+      "name": "润泽",
+      "attributes": [
+        "水"
+      ],
+      "cost": 7,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+190%。"
+    },
+    {
+      "level": "21",
+      "name": "倾泻",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，若本次攻击未被防御技能应对，则驱散双方所有印记。"
+    },
+    {
+      "level": "23",
+      "name": "落雨",
+      "attributes": [
+        "水"
+      ],
+      "cost": 5,
+      "category": "状态",
+      "power": 0,
+      "description": "✦将天气改为雨天，持续8回合。"
+    },
+    {
+      "level": "24",
+      "name": "激流",
+      "attributes": [
+        "水"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 120,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "32",
+      "name": "双联脉冲",
+      "attributes": [
+        "电"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 50,
+      "description": "✦造成魔伤，迸发：本技能使用次数+1。"
+    },
+    {
+      "level": "33",
+      "name": "落雷",
+      "attributes": [
+        "电"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦造成魔伤，每次入场，本技能威力永久+20。"
+    },
+    {
+      "level": "40",
+      "name": "水光冲击",
+      "attributes": [
+        "水"
+      ],
+      "cost": 5,
+      "category": "魔攻",
+      "power": 140,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "49",
+      "name": "强制重启",
+      "attributes": [
+        "电"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，应对状态：回合结束时使敌方精灵返场。"
+    },
+    {
+      "level": "50",
+      "name": "水波术",
+      "attributes": [
+        "水"
+      ],
+      "cost": 6,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，回合结束时，本技能威力永久+20。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "尾后针",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "水弹枪",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "火爪",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "离子震荡",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，本技能位于3号位时威力+40，传动1。"
+    },
+    {
+      "level": null,
+      "name": "荆棘爪",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "虹光冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "触电",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "贯手",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "针状物",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，3连击。"
+    },
+    {
+      "level": null,
+      "name": "霜降",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层冻结。"
+    },
+    {
+      "level": null,
+      "name": "风矢",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "魅惑",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "黑手",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 45,
+      "description": "✦造成魔伤，2连击。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "伪造账单",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦若敌方本回合回复生命，改为失去2倍。先手+1。"
+    },
+    {
+      "level": null,
+      "name": "借用",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成己方队伍中其他精灵的技能。"
+    },
+    {
+      "level": null,
+      "name": "快速移动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，应对防御：改为速度+160。"
+    },
+    {
+      "level": null,
+      "name": "恐吓",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "打湿",
+      "attributes": [
+        "水"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得1层湿润印记。"
+    },
+    {
+      "level": null,
+      "name": "掠夺",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "摇篮曲",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 5,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得全技能能耗+3，应对防御：额外造成打断，且敌方下回合获得眩晕。"
+    },
+    {
+      "level": null,
+      "name": "涌泉",
+      "attributes": [
+        "水"
+      ],
+      "cost": 6,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦造成魔伤，本技能能耗每-1，威力+10。"
+    },
+    {
+      "level": null,
+      "name": "耀眼",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得连击数-4。"
+    },
+    {
+      "level": null,
+      "name": "跌落",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 120,
+      "description": "✦造成大量物伤，自己获得物攻-50%，应对状态：改为获得物攻+50%。"
+    },
+    {
+      "level": null,
+      "name": "重击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 110,
+      "description": "✦造成物伤，每次使用后，本技能能耗永久+1。"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": null,
+      "name": "阻断",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦造成魔伤，应对状态：额外打断被应对技能。"
+    }
+  ],
+  "evolution_chain": "30",
+  "obtain_method": "行踪神秘",
+  "trait_name": "对流",
+  "trait_description": "自己的能耗增加变为能耗降低；能耗降低变为能耗增加。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/f/f0/q3g76bthejmlv9o6phrchq0cpdlfzhy.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%88%A9%E7%81%AF%E9%B1%BC",
+  "source_updated_at": "2026-04-02"
+}

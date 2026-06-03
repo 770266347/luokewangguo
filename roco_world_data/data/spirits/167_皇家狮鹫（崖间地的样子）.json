@@ -1,0 +1,525 @@
+{
+  "number": "167",
+  "name": "皇家狮鹫",
+  "variant": "崖间地的样子",
+  "display_name": "皇家狮鹫（崖间地的样子）",
+  "detail_status": "detail",
+  "attributes": [
+    "翼"
+  ],
+  "stats_total": 604,
+  "hp": 107,
+  "physical_attack": 116,
+  "magic_attack": 69,
+  "physical_defense": 127,
+  "magic_defense": 65,
+  "speed": 120,
+  "skills": [
+    {
+      "level": "1",
+      "name": "啄击",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 15,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": "1",
+      "name": "飞羽",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦迅捷，驱散敌方1种增益。"
+    },
+    {
+      "level": "5",
+      "name": "疾风刺",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，1连击，若先于敌方攻击，改为3连击。"
+    },
+    {
+      "level": "12",
+      "name": "乘风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+120。"
+    },
+    {
+      "level": "21",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "26",
+      "name": "见招拆招",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 65,
+      "description": "✦造成物伤，若上回合使用状态技能，本次技能威力+55。"
+    },
+    {
+      "level": "33",
+      "name": "羽化加速",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+20，迅捷。"
+    },
+    {
+      "level": "35",
+      "name": "扇风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 75,
+      "description": "✦造成物伤，若先于敌方攻击，本次技能威力+50%。"
+    },
+    {
+      "level": "38",
+      "name": "三连破",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+30%，3连击。"
+    },
+    {
+      "level": "41",
+      "name": "闪击",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦造成物伤，速度比敌方越高，本次技能威力越高。"
+    },
+    {
+      "level": "44",
+      "name": "快速移动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，应对防御：改为速度+160。"
+    },
+    {
+      "level": "48",
+      "name": "羽刃",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 75,
+      "description": "✦造成物伤，应对状态：回合结束使敌方紧急脱离。"
+    },
+    {
+      "level": "49",
+      "name": "龙卷风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 5,
+      "category": "物攻",
+      "power": 70,
+      "description": "✦造成物伤，迅捷，应对状态：本次技能威力变为1.5倍。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冰爪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "反击拳",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击，若后手攻击，改为3连击。"
+    },
+    {
+      "level": null,
+      "name": "噬心",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "恶能量",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "折线冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星云漩涡",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "械斗",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦造成物伤，本技能位于1号位时威力+60，传动1。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "泡沫",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰冲锋",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "猛烈撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 65,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "球状闪电",
+      "attributes": [
+        "电"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "花香",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "风矢",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "乘胜追击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 40,
+      "description": "✦造成物伤，1连击，每次使用后，本技能连击数永久+1。"
+    },
+    {
+      "level": null,
+      "name": "倾泻",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，若本次攻击未被防御技能应对，则驱散双方所有印记。"
+    },
+    {
+      "level": null,
+      "name": "偷袭",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 85,
+      "description": "✦造成物伤，应对状态：本次技能威力变为3倍。"
+    },
+    {
+      "level": null,
+      "name": "光之矛",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，3连击。"
+    },
+    {
+      "level": null,
+      "name": "化劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+40。"
+    },
+    {
+      "level": null,
+      "name": "双响炮",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "复写",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成自己未携带的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "提气",
+      "attributes": [
+        "武"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+40，若敌方本回合更换精灵，额外获得威力+50。"
+    },
+    {
+      "level": null,
+      "name": "有效预防",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤50%，应对攻击：下一次行动获得先手+1。"
+    },
+    {
+      "level": null,
+      "name": "漫反射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每种系别中的至多1个技能，威力+35。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "缠丝劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "连续爪击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，2连击，应对状态：本次技能连击数翻倍。"
+    },
+    {
+      "level": null,
+      "name": "锐利眼神",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得物防和魔防-120%。"
+    }
+  ],
+  "evolution_chain": "32 / 46",
+  "obtain_method": "常见于山地、城堡周边",
+  "trait_name": "乘风连击",
+  "trait_description": "使用翼系技能后，获得连击数+1。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/0/09/nji78x7xa58n2ye2yhkqgedpywia239.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E7%9A%87%E5%AE%B6%E7%8B%AE%E9%B9%AB%EF%BC%88%E5%B4%96%E9%97%B4%E5%9C%B0%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%89",
+  "source_updated_at": "2026-05-18-s2-balance-followup"
+}

@@ -1,0 +1,27 @@
+{
+  "number": "163",
+  "name": "小怂猫",
+  "variant": "山间竹林的样子",
+  "display_name": "小怂猫（山间竹林的样子）",
+  "detail_status": "detail",
+  "attributes": [
+    "武"
+  ],
+  "stats_total": 0,
+  "hp": 0,
+  "physical_attack": 0,
+  "magic_attack": 0,
+  "physical_defense": 0,
+  "magic_defense": 0,
+  "speed": 0,
+  "skills": [],
+  "bloodline_skills": [],
+  "skill_stone_skills": [],
+  "evolution_chain": null,
+  "obtain_method": "",
+  "trait_name": "威慑",
+  "trait_description": "打断敌方时，被打断的技能进入2回合冷却。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/d/d1/f32k1wjwrvu0dxo75t4nyfkxj6ylfph.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%B0%8F%E6%80%82%E7%8C%AB%EF%BC%88%E5%B1%B1%E9%97%B4%E7%AB%B9%E6%9E%97%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%89",
+  "source_updated_at": "2026-03-26"
+}

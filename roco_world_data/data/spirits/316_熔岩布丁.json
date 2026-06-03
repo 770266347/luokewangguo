@@ -1,0 +1,559 @@
+{
+  "number": "316",
+  "name": "熔岩布丁",
+  "variant": null,
+  "display_name": "熔岩布丁",
+  "detail_status": "detail",
+  "attributes": [
+    "水",
+    "火"
+  ],
+  "stats_total": 564,
+  "hp": 128,
+  "physical_attack": 87,
+  "magic_attack": 33,
+  "physical_defense": 112,
+  "magic_defense": 84,
+  "speed": 120,
+  "skills": [
+    {
+      "level": "1",
+      "name": "水弹",
+      "attributes": [
+        "水"
+      ],
+      "cost": 0,
+      "category": "魔攻",
+      "power": 40,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "1",
+      "name": "洗礼",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散自己的减益，并获得全技能能耗-1。"
+    },
+    {
+      "level": "1",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "6",
+      "name": "落星",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 45,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "9",
+      "name": "泡沫",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "16",
+      "name": "泡沫幻影",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己脱离。"
+    },
+    {
+      "level": "27",
+      "name": "肥皂泡",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "32",
+      "name": "潮涌",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "36",
+      "name": "水刃",
+      "attributes": [
+        "水"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 115,
+      "description": "✦造成物伤，应对状态：本技能能耗永久-4。"
+    },
+    {
+      "level": "45",
+      "name": "怒火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得双攻+120%和双防-40%。"
+    },
+    {
+      "level": "46",
+      "name": "淬火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 4,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：下次攻击技能威力翻倍。"
+    },
+    {
+      "level": "49",
+      "name": "火焰切割",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "50",
+      "name": "火焰护盾",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：敌方获得6层灼烧。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冥想",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：敌方获得2层星陨印记。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "反击拳",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击，若后手攻击，改为3连击。"
+    },
+    {
+      "level": null,
+      "name": "掩护",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "水弹枪",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "淤泥表皮",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：敌方获得连击数-3。"
+    },
+    {
+      "level": null,
+      "name": "火焰箭",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "离子震荡",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，本技能位于3号位时威力+40，传动1。"
+    },
+    {
+      "level": null,
+      "name": "等价交换",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤90%，应对攻击：自己获得50%吸血。"
+    },
+    {
+      "level": null,
+      "name": "羽翼庇护",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "虚化",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己获得魔防+70%。"
+    },
+    {
+      "level": null,
+      "name": "虹光冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "蜡质膜",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：回复3能量。"
+    },
+    {
+      "level": null,
+      "name": "防反",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：自己获得物攻和魔攻+40%。"
+    },
+    {
+      "level": null,
+      "name": "集中",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己回合结束返场。"
+    },
+    {
+      "level": null,
+      "name": "雪替身",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：回复能量，回复值等于被应对技能能耗的2倍。"
+    },
+    {
+      "level": null,
+      "name": "魅惑",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "力量增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+100%。"
+    },
+    {
+      "level": null,
+      "name": "吹火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 50,
+      "description": "✦造成物伤，每次使用后，本技能威力永久+20。"
+    },
+    {
+      "level": null,
+      "name": "复写",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成自己未携带的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "天洪",
+      "attributes": [
+        "水"
+      ],
+      "cost": 7,
+      "category": "魔攻",
+      "power": 150,
+      "description": "✦造成魔伤，应对状态：本技能能耗永久-6。"
+    },
+    {
+      "level": null,
+      "name": "捧杀",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 4,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤90%，应对攻击：敌方获得1层萌化。"
+    },
+    {
+      "level": null,
+      "name": "水幕冲击",
+      "attributes": [
+        "水"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "水炮",
+      "attributes": [
+        "水"
+      ],
+      "cost": 5,
+      "category": "魔攻",
+      "power": 110,
+      "description": "✦造成魔伤，每次使用后，本技能能耗永久-1。"
+    },
+    {
+      "level": null,
+      "name": "水环",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：自己获得全技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "突袭",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，应对状态：本次技能威力变为3倍。"
+    },
+    {
+      "level": null,
+      "name": "蓄水",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下次使用的技能能耗-6。"
+    },
+    {
+      "level": null,
+      "name": "血气",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：本回合受到致命伤害时，保留1生命值。"
+    },
+    {
+      "level": null,
+      "name": "许愿星",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 110,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "超级糖果",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "✦造成物伤，自己获得萌化：本次技能威力+60。"
+    },
+    {
+      "level": null,
+      "name": "阻断",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦造成魔伤，应对状态：额外打断被应对技能。"
+    },
+    {
+      "level": null,
+      "name": "高温回火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 40,
+      "description": "✦造成魔伤，自己脱离。"
+    },
+    {
+      "level": null,
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "魔能爆",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "魔攻",
+      "power": 1,
+      "description": "✦造成魔伤，使用时消耗所有能量，消耗越高，伤害越高。"
+    }
+  ],
+  "evolution_chain": "30 / 火血脉",
+  "obtain_method": "行踪神秘",
+  "trait_name": "美拉德反应",
+  "trait_description": "离场后，更换入场的精灵获得双攻+20%且免疫灼烧。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/0/0c/fak6xe7fad7bxuiybj40jzr2mc5yueq.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E7%86%94%E5%B2%A9%E5%B8%83%E4%B8%81",
+  "source_updated_at": "2026-04-02"
+}

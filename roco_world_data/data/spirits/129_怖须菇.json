@@ -1,0 +1,569 @@
+{
+  "number": "129",
+  "name": "怖须菇",
+  "variant": null,
+  "display_name": "怖须菇",
+  "detail_status": "detail",
+  "attributes": [
+    "幻"
+  ],
+  "stats_total": 372,
+  "hp": 99,
+  "physical_attack": 50,
+  "magic_attack": 55,
+  "physical_defense": 40,
+  "magic_defense": 80,
+  "speed": 48,
+  "skills": [
+    {
+      "level": "1",
+      "name": "偷师",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 0,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，自己回复1能量。"
+    },
+    {
+      "level": "1",
+      "name": "耀眼",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得连击数-4。"
+    },
+    {
+      "level": "1",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "7",
+      "name": "星云漩涡",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "10",
+      "name": "星链",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦2连击，每次连击使敌方获得1层星陨印记。"
+    },
+    {
+      "level": "13",
+      "name": "针状物",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，3连击。"
+    },
+    {
+      "level": "19",
+      "name": "嗜痛",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：期间自己每次受到伤害，获得双攻+40%。"
+    },
+    {
+      "level": "23",
+      "name": "当头棒喝",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，若敌方本回合更换精灵，本次技能威力+100。"
+    },
+    {
+      "level": "29",
+      "name": "触底强击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 65,
+      "description": "✦造成魔伤，使用后若能量耗尽，本次技能威力+110。"
+    },
+    {
+      "level": "30",
+      "name": "血气",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：本回合受到致命伤害时，保留1生命值。"
+    },
+    {
+      "level": "35",
+      "name": "多维击打",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 15,
+      "description": "✦造成魔伤，1连击，敌方每有1层星陨印记，本次技能连击数+1。"
+    },
+    {
+      "level": "36",
+      "name": "四维降解",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 7,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦造成魔伤，敌方每有1层印记，本技能能耗-1。"
+    },
+    {
+      "level": "38",
+      "name": "冥想",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：敌方获得2层星陨印记。"
+    },
+    {
+      "level": "39",
+      "name": "错乱",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 65,
+      "description": "✦造成魔伤，应对状态：敌方获得3层星陨印记。"
+    },
+    {
+      "level": "49",
+      "name": "突袭",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，应对状态：本次技能威力变为3倍。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "反击拳",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击，若后手攻击，改为3连击。"
+    },
+    {
+      "level": null,
+      "name": "念力膨胀",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "掩护",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "水弹枪",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "淤泥表皮",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：敌方获得连击数-3。"
+    },
+    {
+      "level": null,
+      "name": "火焰护盾",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：敌方获得6层灼烧。"
+    },
+    {
+      "level": null,
+      "name": "离子震荡",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，本技能位于3号位时威力+40，传动1。"
+    },
+    {
+      "level": null,
+      "name": "等价交换",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤90%，应对攻击：自己获得50%吸血。"
+    },
+    {
+      "level": null,
+      "name": "羽翼庇护",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "虚化",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己获得魔防+70%。"
+    },
+    {
+      "level": null,
+      "name": "虹光冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "蜡质膜",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：回复3能量。"
+    },
+    {
+      "level": null,
+      "name": "防反",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：自己获得物攻和魔攻+40%。"
+    },
+    {
+      "level": null,
+      "name": "集中",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己回合结束返场。"
+    },
+    {
+      "level": null,
+      "name": "雪替身",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：回复能量，回复值等于被应对技能能耗的2倍。"
+    },
+    {
+      "level": null,
+      "name": "魅惑",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "休息回复",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复30%生命。"
+    },
+    {
+      "level": null,
+      "name": "先发制人",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 55,
+      "description": "✦造成物理伤害，先手+1。"
+    },
+    {
+      "level": null,
+      "name": "吓退",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：敌方脱离。"
+    },
+    {
+      "level": null,
+      "name": "复写",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成自己未携带的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "幻象",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "心灵洞悉",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 7,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得星陨印记，获得层数等于敌方印记层数。"
+    },
+    {
+      "level": null,
+      "name": "恐吓",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "报复",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：敌方失去3能量。"
+    },
+    {
+      "level": null,
+      "name": "无畏之心",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 5,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤100%，应对攻击：减免的伤害变为回复自己生命，且本技能能耗永久+2。"
+    },
+    {
+      "level": null,
+      "name": "汲取",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，并吸血100%。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "纤维化",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己获得物防+70%。"
+    },
+    {
+      "level": null,
+      "name": "花炮",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦2连击，每次连击自己获得魔攻+60%。"
+    },
+    {
+      "level": null,
+      "name": "藤绞",
+      "attributes": [
+        "草"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，自己回复5能量。"
+    },
+    {
+      "level": null,
+      "name": "酶浓度调整",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己回复20%生命。"
+    },
+    {
+      "level": null,
+      "name": "顶端优势",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成物理伤害。"
+    }
+  ],
+  "evolution_chain": "24 / 38",
+  "obtain_method": "常见于山地、河岸",
+  "trait_name": "吸积盘",
+  "trait_description": "回合结束时，敌方获得2层星陨印记。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/a/a5/bh34wp7r6rvgj50zw0rz9uh7w1onmvl.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E6%80%96%E9%A1%BB%E8%8F%87",
+  "source_updated_at": "2026-04-02"
+}

@@ -1,0 +1,569 @@
+{
+  "number": "353",
+  "name": "凡鹰",
+  "variant": null,
+  "display_name": "凡鹰",
+  "detail_status": "detail",
+  "attributes": [
+    "翼"
+  ],
+  "stats_total": 620,
+  "hp": 118,
+  "physical_attack": 92,
+  "magic_attack": 89,
+  "physical_defense": 86,
+  "magic_defense": 110,
+  "speed": 125,
+  "skills": [
+    {
+      "level": "1",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "1",
+      "name": "鸣叫",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 0,
+      "category": "魔攻",
+      "power": 40,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "6",
+      "name": "乘风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+120。"
+    },
+    {
+      "level": "12",
+      "name": "音波弹",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦造成魔伤，1连击。"
+    },
+    {
+      "level": "23",
+      "name": "疾风刺",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，1连击，若先于敌方攻击，改为3连击。"
+    },
+    {
+      "level": "26",
+      "name": "锐利眼神",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得物防和魔防-120%。"
+    },
+    {
+      "level": "29",
+      "name": "先发制人",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 55,
+      "description": "✦造成物理伤害，先手+1。"
+    },
+    {
+      "level": "34",
+      "name": "翼击",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 50,
+      "description": "✦造成魔伤，迅捷。"
+    },
+    {
+      "level": "35",
+      "name": "羽化加速",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+20，迅捷。"
+    },
+    {
+      "level": "36",
+      "name": "能量炮",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 50,
+      "description": "✦造成魔伤，2连击。"
+    },
+    {
+      "level": "39",
+      "name": "见招拆招",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 65,
+      "description": "✦造成物伤，若上回合使用状态技能，本次技能威力+55。"
+    },
+    {
+      "level": "43",
+      "name": "暴风眼",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦行动时连击数+100%。"
+    },
+    {
+      "level": "44",
+      "name": "吞噬",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 6,
+      "category": "物攻",
+      "power": 150,
+      "description": "✦造成物伤，若使用本技能击败敌方，回复6能量。"
+    },
+    {
+      "level": "49",
+      "name": "俯冲",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 7,
+      "category": "物攻",
+      "power": 170,
+      "description": "✦造成物伤，先手+1。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冰爪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "噬心",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "恶能量",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "扬沙",
+      "attributes": [
+        "地"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星云漩涡",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "毒沼",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "泡沫",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰冲锋",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "球状闪电",
+      "attributes": [
+        "电"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "花香",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "贯手",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "金属噪音",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "风矢",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "三连破",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+30%，3连击。"
+    },
+    {
+      "level": null,
+      "name": "乱打",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 25,
+      "description": "✦造成魔伤，5连击。"
+    },
+    {
+      "level": null,
+      "name": "伺机而动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下一次攻击时，技能威力+70。"
+    },
+    {
+      "level": null,
+      "name": "光之矛",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，3连击。"
+    },
+    {
+      "level": null,
+      "name": "叠势",
+      "attributes": [
+        "武"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 25,
+      "description": "✦造成魔伤，2连击，每成功应对1次，本技能连击数永久+2。"
+    },
+    {
+      "level": null,
+      "name": "埋伏",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，3连击，若敌方本回合更换精灵，本次技能连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "复写",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成自己未携带的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "天光",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 95,
+      "description": "✦造成魔伤，本技能系别和天气系别相同。"
+    },
+    {
+      "level": null,
+      "name": "快速移动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，应对防御：改为速度+160。"
+    },
+    {
+      "level": null,
+      "name": "晒太阳",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散敌方所有增益。"
+    },
+    {
+      "level": null,
+      "name": "水花四溅",
+      "attributes": [
+        "水"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 20,
+      "description": "✦造成魔伤，4连击。"
+    },
+    {
+      "level": null,
+      "name": "潮涌",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "突袭",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，应对状态：本次技能威力变为3倍。"
+    },
+    {
+      "level": null,
+      "name": "缠丝劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "连续爪击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，2连击，应对状态：本次技能连击数翻倍。"
+    },
+    {
+      "level": null,
+      "name": "龙卷风",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 5,
+      "category": "物攻",
+      "power": 70,
+      "description": "✦造成物伤，迅捷，应对状态：本次技能威力变为1.5倍。"
+    }
+  ],
+  "evolution_chain": null,
+  "obtain_method": "行踪神秘",
+  "trait_name": "展翅",
+  "trait_description": "展翅 在场时，自己携带的普通系技能变为翼系技能，若后于对手行动，自己受到的伤害+25%。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/f/f2/mjr3868sdrox5qo44kd6m3mnvma2wwa.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%87%A1%E9%B9%B0",
+  "source_updated_at": "2026-05-26"
+}

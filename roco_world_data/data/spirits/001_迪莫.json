@@ -1,0 +1,602 @@
+{
+  "number": "001",
+  "name": "迪莫",
+  "variant": null,
+  "display_name": "迪莫",
+  "detail_status": "detail",
+  "attributes": [
+    "光"
+  ],
+  "stats_total": 582,
+  "hp": 120,
+  "physical_attack": 80,
+  "magic_attack": 80,
+  "physical_defense": 105,
+  "magic_defense": 105,
+  "speed": 92,
+  "skills": [
+    {
+      "level": "1",
+      "name": "猛烈撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 65,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "1",
+      "name": "闪光",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "1",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "7",
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": "9",
+      "name": "光球",
+      "attributes": [
+        "光"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "11",
+      "name": "火焰箭",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "13",
+      "name": "力量增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻+100%。"
+    },
+    {
+      "level": "16",
+      "name": "棘突",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "19",
+      "name": "潮涌",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "22",
+      "name": "超导",
+      "attributes": [
+        "电"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 95,
+      "description": "✦造成魔伤，迸发：本技能能耗-1。"
+    },
+    {
+      "level": "27",
+      "name": "闪光冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "30",
+      "name": "漫反射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每种系别中的至多1个技能，威力+35。"
+    },
+    {
+      "level": "32",
+      "name": "冰爪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "34",
+      "name": "热砂",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "36",
+      "name": "念力膨胀",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "40",
+      "name": "放晴",
+      "attributes": [
+        "光"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦光系技能威力永久+50%，应对防御：改为永久+100%。"
+    },
+    {
+      "level": "42",
+      "name": "过曝",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦造成魔伤，每使用过1个其他系别技能，本技能威力永久+30。"
+    },
+    {
+      "level": "47",
+      "name": "光刃",
+      "attributes": [
+        "光"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 120,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "48",
+      "name": "折射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 50,
+      "description": "✦造成魔伤，携带其他系别技能会给本技能带来不同效果。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冷风",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "噬心",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "幻象",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "恶能量",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "扬沙",
+      "attributes": [
+        "地"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "折线冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星云漩涡",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "星星撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "泡沫",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "溃烂触碰",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰冲锋",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "球状闪电",
+      "attributes": [
+        "电"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "离子震荡",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 90,
+      "description": "✦造成魔伤，本技能位于3号位时威力+40，传动1。"
+    },
+    {
+      "level": null,
+      "name": "缠丝劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击。"
+    },
+    {
+      "level": null,
+      "name": "花香",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "魅惑",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "鹰爪",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "借用",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成己方队伍中其他精灵的技能。"
+    },
+    {
+      "level": null,
+      "name": "坍缩",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 85,
+      "description": "✦造成魔伤，若击败敌方，自己获得魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "天洪",
+      "attributes": [
+        "水"
+      ],
+      "cost": 7,
+      "category": "魔攻",
+      "power": 150,
+      "description": "✦造成魔伤，应对状态：本技能能耗永久-6。"
+    },
+    {
+      "level": null,
+      "name": "寒风吹",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 70,
+      "description": "✦造成魔伤，敌方获得魔防-50%。"
+    },
+    {
+      "level": null,
+      "name": "怒火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得双攻+120%和双防-40%。"
+    },
+    {
+      "level": null,
+      "name": "抽枝",
+      "attributes": [
+        "草"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 90,
+      "description": "✦造成物伤，应对状态：自己回复50%生命和5能量。"
+    },
+    {
+      "level": null,
+      "name": "有效预防",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤50%，应对攻击：下一次行动获得先手+1。"
+    },
+    {
+      "level": null,
+      "name": "气泡",
+      "attributes": [
+        "水"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "氧输送",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复4能量，并获得魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "润泽",
+      "attributes": [
+        "水"
+      ],
+      "cost": 7,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+190%。"
+    },
+    {
+      "level": null,
+      "name": "炎打",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 95,
+      "description": "✦造成高额魔法伤害，自己获得物防-40%。"
+    },
+    {
+      "level": null,
+      "name": "电弧",
+      "attributes": [
+        "电"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，迸发：本次技能威力+40。"
+    },
+    {
+      "level": null,
+      "name": "藤绞",
+      "attributes": [
+        "草"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，自己回复5能量。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "闪燃",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 40,
+      "description": "✦造成物伤，应对状态：本次技能威力变为4倍。"
+    }
+  ],
+  "evolution_chain": "无法进化",
+  "obtain_method": "叽叽喳喳台地",
+  "trait_name": "最好的伙伴",
+  "trait_description": "造成克制伤害后，获得攻防速+20%，并回复2能量。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/2/25/o64cvcxq1l6tlur77xjqbwx2s4imabd.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E8%BF%AA%E8%8E%AB",
+  "source_updated_at": "2026-04-02"
+}

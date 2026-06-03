@@ -1,0 +1,493 @@
+{
+  "number": "366",
+  "name": "烟花伯爵",
+  "variant": null,
+  "display_name": "烟花伯爵",
+  "detail_status": "detail",
+  "attributes": [
+    "火",
+    "毒"
+  ],
+  "stats_total": 485,
+  "hp": 76,
+  "physical_attack": 44,
+  "magic_attack": 111,
+  "physical_defense": 62,
+  "magic_defense": 97,
+  "speed": 95,
+  "skills": [
+    {
+      "level": "1",
+      "name": "引燃",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得10层灼烧。"
+    },
+    {
+      "level": "1",
+      "name": "流火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 15,
+      "description": "✦造成魔伤，3连击。"
+    },
+    {
+      "level": "1",
+      "name": "腐蚀酸液",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 35,
+      "description": "✦造成魔伤，敌方获得2层中毒。"
+    },
+    {
+      "level": "5",
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": "9",
+      "name": "易燃物质",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，2连击，每次连击使敌方获得2层灼烧。"
+    },
+    {
+      "level": "12",
+      "name": "毒孢子",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得5层中毒。"
+    },
+    {
+      "level": "25",
+      "name": "烈焰风暴",
+      "attributes": [
+        "火"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 75,
+      "description": "✦造成魔伤，敌方获得6层灼烧。"
+    },
+    {
+      "level": "35",
+      "name": "腐化",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方每有1层中毒效果，敌方获得双攻-30%。"
+    },
+    {
+      "level": "41",
+      "name": "火焰护盾",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：敌方获得6层灼烧。"
+    },
+    {
+      "level": "48",
+      "name": "落井下毒",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 6,
+      "category": "状态",
+      "power": 0,
+      "description": "✦使敌方精灵减益的层数翻倍。"
+    },
+    {
+      "level": "49",
+      "name": "毒液渗透",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 5,
+      "category": "魔攻",
+      "power": 120,
+      "description": "✦造成魔伤，敌方每有1层中毒效果，本技能能耗-1，敌方获得1层中毒。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "休息回复",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复30%生命。"
+    },
+    {
+      "level": null,
+      "name": "假寐",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复2能量，己方队伍获得1次奉献：能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "化劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+40。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "徒长",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复10能量。"
+    },
+    {
+      "level": null,
+      "name": "恶能量",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "泥浆铠甲",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻和物防+60%，应对防御：额外使自己的增益翻倍。"
+    },
+    {
+      "level": null,
+      "name": "溃烂触碰",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰箭",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "甜心续航",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己和敌方获得萌化：回复40%生命。"
+    },
+    {
+      "level": null,
+      "name": "羽化加速",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+20，迅捷。"
+    },
+    {
+      "level": null,
+      "name": "蓄水",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下次使用的技能能耗-6。"
+    },
+    {
+      "level": null,
+      "name": "超维投射",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层星陨印记。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "金属噪音",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "霜降",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层冻结。"
+    },
+    {
+      "level": null,
+      "name": "麻痹",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "借用",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成己方队伍中其他精灵的技能。"
+    },
+    {
+      "level": null,
+      "name": "充分燃烧",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦使敌方身上的灼烧翻倍，并触发1次灼烧伤害。"
+    },
+    {
+      "level": null,
+      "name": "剧毒",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得3层中毒，应对防御：改为获得8层。"
+    },
+    {
+      "level": null,
+      "name": "吓退",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：敌方脱离。"
+    },
+    {
+      "level": null,
+      "name": "天火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得10层灼烧，应对防御：改为获得30层。"
+    },
+    {
+      "level": null,
+      "name": "操控",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方本回合使用的技能能耗+7，持续3回合。"
+    },
+    {
+      "level": null,
+      "name": "暗箱操作",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得双攻和双防-100%，应对防御：改为敌方获得双攻和双防-100%。"
+    },
+    {
+      "level": null,
+      "name": "杂耍",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 115,
+      "description": "✦造成魔伤，巧变：吸血相关技能。"
+    },
+    {
+      "level": null,
+      "name": "热身运动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "焚烧烙印",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散双方所有印记，每驱散1层，敌方获得5层灼烧。"
+    },
+    {
+      "level": null,
+      "name": "石肤术",
+      "attributes": [
+        "地"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物防+160%和魔防-60%。"
+    },
+    {
+      "level": null,
+      "name": "贪婪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得100%吸血。"
+    },
+    {
+      "level": null,
+      "name": "陨石",
+      "attributes": [
+        "地"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    }
+  ],
+  "evolution_chain": null,
+  "obtain_method": "行踪神秘",
+  "trait_name": "焰色反应",
+  "trait_description": "在场时，衰减的<desc_id=1002>灼烧</>变为相同层数的<desc_id=1001>中毒</>。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/6/63/qfqaly4cyi2dg3w3c39zjcdjvsnjaey.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E7%83%9F%E8%8A%B1%E4%BC%AF%E7%88%B5",
+  "source_updated_at": "2026-05-26"
+}

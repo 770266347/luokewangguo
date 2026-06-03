@@ -1,0 +1,526 @@
+{
+  "number": "093",
+  "name": "绿草精灵",
+  "variant": null,
+  "display_name": "绿草精灵",
+  "detail_status": "detail",
+  "attributes": [
+    "草",
+    "幻"
+  ],
+  "stats_total": 473,
+  "hp": 79,
+  "physical_attack": 35,
+  "magic_attack": 89,
+  "physical_defense": 87,
+  "magic_defense": 111,
+  "speed": 72,
+  "skills": [
+    {
+      "level": "1",
+      "name": "汲取",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，并吸血100%。"
+    },
+    {
+      "level": "1",
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": "3",
+      "name": "花香",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "4",
+      "name": "移花接木",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复15%生命，随后脱离。"
+    },
+    {
+      "level": "11",
+      "name": "酶浓度调整",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己回复20%生命。"
+    },
+    {
+      "level": "23",
+      "name": "棘突",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": "25",
+      "name": "富养化",
+      "attributes": [
+        "草"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦为场下每个精灵回复3能量。"
+    },
+    {
+      "level": "32",
+      "name": "针状物",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 30,
+      "description": "✦造成魔伤，3连击。"
+    },
+    {
+      "level": "34",
+      "name": "超维投射",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层星陨印记。"
+    },
+    {
+      "level": "35",
+      "name": "先发制人",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 55,
+      "description": "✦造成物理伤害，先手+1。"
+    },
+    {
+      "level": "39",
+      "name": "心灵洞悉",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 7,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得星陨印记，获得层数等于敌方印记层数。"
+    },
+    {
+      "level": "41",
+      "name": "坍缩",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 85,
+      "description": "✦造成魔伤，若击败敌方，自己获得魔攻+70%。"
+    },
+    {
+      "level": "47",
+      "name": "盛开",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+30，应对防御：改为威力+60。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "休息回复",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复30%生命。"
+    },
+    {
+      "level": null,
+      "name": "假寐",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复2能量，己方队伍获得1次奉献：能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "勾魂",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦偷取敌方3能量。"
+    },
+    {
+      "level": null,
+      "name": "化劲",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+40。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "啮合传递",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，本技能位于1号或3号位时额外获得物攻+60%，传动1。"
+    },
+    {
+      "level": null,
+      "name": "引燃",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得10层灼烧。"
+    },
+    {
+      "level": null,
+      "name": "念力膨胀",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "毒孢子",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得5层中毒。"
+    },
+    {
+      "level": null,
+      "name": "泥浆铠甲",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得物攻和物防+60%，应对防御：额外使自己的增益翻倍。"
+    },
+    {
+      "level": null,
+      "name": "甜心续航",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己和敌方获得萌化：回复40%生命和4能量。"
+    },
+    {
+      "level": null,
+      "name": "羽化加速",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得全技能威力+20，迅捷。"
+    },
+    {
+      "level": null,
+      "name": "荆棘爪",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "蓄水",
+      "attributes": [
+        "水"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下次使用的技能能耗-6。"
+    },
+    {
+      "level": null,
+      "name": "虹光冲击",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "贪婪",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得100%吸血。"
+    },
+    {
+      "level": null,
+      "name": "霜降",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得4层冻结。"
+    },
+    {
+      "level": null,
+      "name": "麻痹",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "主场优势",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得1层攻击印记。"
+    },
+    {
+      "level": null,
+      "name": "二律背反",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得3层星陨印记，应对防御：额外使敌方星陨印记层数翻倍。"
+    },
+    {
+      "level": null,
+      "name": "光合作用",
+      "attributes": [
+        "草"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得1层光合印记。"
+    },
+    {
+      "level": null,
+      "name": "取念",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成敌方任意精灵的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "嗜痛",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：期间自己每次受到伤害，获得双攻+40%。"
+    },
+    {
+      "level": null,
+      "name": "多维击打",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 4,
+      "category": "魔攻",
+      "power": 15,
+      "description": "✦造成魔伤，1连击，敌方每有1层星陨印记，本次技能连击数+1。"
+    },
+    {
+      "level": null,
+      "name": "天光",
+      "attributes": [
+        "光"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 95,
+      "description": "✦造成魔伤，本技能系别和天气系别相同。"
+    },
+    {
+      "level": null,
+      "name": "应激反应",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复25%生命，应对防御：改为回复50%生命。"
+    },
+    {
+      "level": null,
+      "name": "星轨裂变",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得2层星陨印记。"
+    },
+    {
+      "level": null,
+      "name": "晒太阳",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦驱散敌方所有增益。"
+    },
+    {
+      "level": null,
+      "name": "漫反射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每种系别中的至多1个技能，威力+35。"
+    },
+    {
+      "level": null,
+      "name": "精神扰乱",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得全技能能耗+1，应对防御：改为能耗+3。"
+    },
+    {
+      "level": null,
+      "name": "芳香诱引",
+      "attributes": [
+        "草"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得连击数+3，应对防御：额外造成打断，且敌方下回合获得眩晕。"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    }
+  ],
+  "evolution_chain": "32",
+  "obtain_method": "咸水湾",
+  "trait_name": "木桶戏法",
+  "trait_description": "离场后，更换入场的精灵以木桶状态登场。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/1/17/i57n7v6fkt96if840ri0w2jwf07rsgr.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E7%BB%BF%E8%8D%89%E7%B2%BE%E7%81%B5",
+  "source_updated_at": "2026-04-02"
+}

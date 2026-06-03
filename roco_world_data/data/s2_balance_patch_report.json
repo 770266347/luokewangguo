@@ -1,0 +1,455 @@
+{
+  "source": "2026-05-18-s2-balance-followup",
+  "source_urls": [
+    "https://www.vgover.com/news/215636",
+    "https://www.youxiabc.com/p/45197.html"
+  ],
+  "stat_patch_count": 25,
+  "trait_patch_count": 2,
+  "missing": [],
+  "changed": [
+    {
+      "display_name": "皇家狮鹫（高山地的样子）",
+      "before": {
+        "hp": 109,
+        "magic_attack": 59,
+        "physical_defense": 123,
+        "magic_defense": 70,
+        "stats_total": 596
+      },
+      "after": {
+        "hp": 109,
+        "magic_attack": 59,
+        "physical_defense": 123,
+        "magic_defense": 70,
+        "stats_total": 596
+      }
+    },
+    {
+      "display_name": "皇家狮鹫（崖间地的样子）",
+      "before": {
+        "hp": 107,
+        "magic_attack": 69,
+        "physical_defense": 127,
+        "magic_defense": 65,
+        "stats_total": 604
+      },
+      "after": {
+        "hp": 107,
+        "magic_attack": 69,
+        "physical_defense": 127,
+        "magic_defense": 65,
+        "stats_total": 604
+      }
+    },
+    {
+      "display_name": "高脚鹬",
+      "before": {
+        "hp": 96,
+        "physical_attack": 98,
+        "magic_attack": 98,
+        "stats_total": 606
+      },
+      "after": {
+        "hp": 96,
+        "physical_attack": 98,
+        "magic_attack": 98,
+        "stats_total": 606
+      }
+    },
+    {
+      "display_name": "锤头鹳",
+      "before": {
+        "hp": 128,
+        "physical_attack": 77,
+        "magic_attack": 75,
+        "physical_defense": 101,
+        "magic_defense": 81,
+        "stats_total": 567
+      },
+      "after": {
+        "hp": 128,
+        "physical_attack": 77,
+        "magic_attack": 75,
+        "physical_defense": 101,
+        "magic_defense": 81,
+        "stats_total": 567
+      }
+    },
+    {
+      "display_name": "遁地鼠（枯水期的样子）",
+      "before": {
+        "physical_defense": 121,
+        "magic_defense": 85,
+        "stats_total": 596
+      },
+      "after": {
+        "physical_defense": 121,
+        "magic_defense": 85,
+        "stats_total": 596
+      }
+    },
+    {
+      "display_name": "遁地鼠（储水期的样子）",
+      "before": {
+        "hp": 112,
+        "magic_attack": 23,
+        "physical_defense": 85,
+        "magic_defense": 131,
+        "stats_total": 569
+      },
+      "after": {
+        "hp": 112,
+        "magic_attack": 23,
+        "physical_defense": 85,
+        "magic_defense": 131,
+        "stats_total": 569
+      }
+    },
+    {
+      "display_name": "梦悠悠（穿旧睡衣的样子）",
+      "before": {
+        "hp": 105,
+        "physical_attack": 60,
+        "magic_attack": 110,
+        "physical_defense": 85,
+        "magic_defense": 116,
+        "stats_total": 591
+      },
+      "after": {
+        "hp": 105,
+        "physical_attack": 60,
+        "magic_attack": 110,
+        "physical_defense": 85,
+        "magic_defense": 116,
+        "stats_total": 591
+      }
+    },
+    {
+      "display_name": "叮叮恶魔",
+      "before": {
+        "hp": 125,
+        "magic_attack": 70,
+        "physical_defense": 89,
+        "magic_defense": 69,
+        "stats_total": 598
+      },
+      "after": {
+        "hp": 125,
+        "magic_attack": 70,
+        "physical_defense": 89,
+        "magic_defense": 69,
+        "stats_total": 598
+      }
+    },
+    {
+      "display_name": "彩蝶鲨",
+      "before": {
+        "hp": 115,
+        "physical_attack": 101,
+        "magic_attack": 101,
+        "physical_defense": 125,
+        "magic_defense": 125,
+        "stats_total": 692
+      },
+      "after": {
+        "hp": 115,
+        "physical_attack": 101,
+        "magic_attack": 101,
+        "physical_defense": 125,
+        "magic_defense": 125,
+        "stats_total": 692
+      }
+    },
+    {
+      "display_name": "神谕鲨",
+      "before": {
+        "hp": 115,
+        "physical_attack": 101,
+        "magic_attack": 101,
+        "physical_defense": 125,
+        "magic_defense": 125,
+        "stats_total": 692
+      },
+      "after": {
+        "hp": 115,
+        "physical_attack": 101,
+        "magic_attack": 101,
+        "physical_defense": 125,
+        "magic_defense": 125,
+        "stats_total": 692
+      }
+    },
+    {
+      "display_name": "黑猫巫师",
+      "before": {
+        "hp": 149,
+        "physical_attack": 53,
+        "magic_attack": 124,
+        "physical_defense": 90,
+        "magic_defense": 129,
+        "stats_total": 615
+      },
+      "after": {
+        "hp": 149,
+        "physical_attack": 53,
+        "magic_attack": 124,
+        "physical_defense": 90,
+        "magic_defense": 129,
+        "stats_total": 615
+      }
+    },
+    {
+      "display_name": "黑猫密探",
+      "before": {
+        "hp": 149,
+        "physical_attack": 65,
+        "magic_attack": 118,
+        "physical_defense": 90,
+        "magic_defense": 129,
+        "stats_total": 621
+      },
+      "after": {
+        "hp": 149,
+        "physical_attack": 65,
+        "magic_attack": 118,
+        "physical_defense": 90,
+        "magic_defense": 129,
+        "stats_total": 621
+      }
+    },
+    {
+      "display_name": "寒音蛇（本来的样子）",
+      "before": {
+        "hp": 141,
+        "physical_attack": 89,
+        "magic_attack": 89,
+        "physical_defense": 90,
+        "stats_total": 623
+      },
+      "after": {
+        "hp": 141,
+        "physical_attack": 89,
+        "magic_attack": 89,
+        "physical_defense": 90,
+        "stats_total": 623
+      }
+    },
+    {
+      "display_name": "九幽菇",
+      "before": {
+        "hp": 131,
+        "physical_attack": 72,
+        "magic_attack": 65,
+        "physical_defense": 107,
+        "magic_defense": 103,
+        "stats_total": 548
+      },
+      "after": {
+        "hp": 131,
+        "physical_attack": 72,
+        "magic_attack": 65,
+        "physical_defense": 107,
+        "magic_defense": 103,
+        "stats_total": 548
+      }
+    },
+    {
+      "display_name": "窃光蚊",
+      "before": {
+        "physical_attack": 113,
+        "magic_attack": 113,
+        "physical_defense": 71,
+        "magic_defense": 125,
+        "stats_total": 630
+      },
+      "after": {
+        "physical_attack": 113,
+        "magic_attack": 113,
+        "physical_defense": 71,
+        "magic_defense": 125,
+        "stats_total": 630
+      }
+    },
+    {
+      "display_name": "圆号鱼",
+      "before": {
+        "hp": 113,
+        "physical_attack": 31,
+        "stats_total": 549
+      },
+      "after": {
+        "hp": 113,
+        "physical_attack": 31,
+        "stats_total": 549
+      }
+    },
+    {
+      "display_name": "武者鸡",
+      "before": {
+        "hp": 105,
+        "physical_attack": 132,
+        "magic_attack": 98,
+        "magic_defense": 88,
+        "stats_total": 610
+      },
+      "after": {
+        "hp": 105,
+        "physical_attack": 132,
+        "magic_attack": 98,
+        "magic_defense": 88,
+        "stats_total": 610
+      }
+    },
+    {
+      "display_name": "绅士鸡",
+      "before": {
+        "hp": 100,
+        "physical_attack": 122,
+        "magic_attack": 122,
+        "physical_defense": 100,
+        "magic_defense": 99,
+        "stats_total": 653
+      },
+      "after": {
+        "hp": 100,
+        "physical_attack": 122,
+        "magic_attack": 122,
+        "physical_defense": 100,
+        "magic_defense": 99,
+        "stats_total": 653
+      }
+    },
+    {
+      "display_name": "仪式巨像",
+      "before": {
+        "hp": 113,
+        "physical_attack": 83,
+        "magic_attack": 88,
+        "physical_defense": 93,
+        "magic_defense": 91,
+        "stats_total": 553
+      },
+      "after": {
+        "hp": 113,
+        "physical_attack": 83,
+        "magic_attack": 88,
+        "physical_defense": 93,
+        "magic_defense": 91,
+        "stats_total": 553
+      }
+    },
+    {
+      "display_name": "祭礼巨像",
+      "before": {
+        "hp": 115,
+        "physical_attack": 98,
+        "magic_attack": 102,
+        "physical_defense": 100,
+        "magic_defense": 99,
+        "stats_total": 599
+      },
+      "after": {
+        "hp": 115,
+        "physical_attack": 98,
+        "magic_attack": 102,
+        "physical_defense": 100,
+        "magic_defense": 99,
+        "stats_total": 599
+      }
+    },
+    {
+      "display_name": "古啦多",
+      "before": {
+        "hp": 98,
+        "physical_attack": 65,
+        "magic_attack": 65,
+        "physical_defense": 142,
+        "magic_defense": 138,
+        "stats_total": 598
+      },
+      "after": {
+        "hp": 98,
+        "physical_attack": 65,
+        "magic_attack": 65,
+        "physical_defense": 142,
+        "magic_defense": 138,
+        "stats_total": 598
+      }
+    },
+    {
+      "display_name": "龙鱼",
+      "before": {
+        "hp": 77,
+        "physical_attack": 131,
+        "magic_attack": 113,
+        "physical_defense": 122,
+        "magic_defense": 106,
+        "stats_total": 674
+      },
+      "after": {
+        "hp": 77,
+        "physical_attack": 131,
+        "magic_attack": 113,
+        "physical_defense": 122,
+        "magic_defense": 106,
+        "stats_total": 674
+      }
+    },
+    {
+      "display_name": "爵士鹿",
+      "before": {
+        "physical_attack": 77,
+        "magic_attack": 20,
+        "stats_total": 496
+      },
+      "after": {
+        "physical_attack": 77,
+        "magic_attack": 20,
+        "stats_total": 496
+      }
+    },
+    {
+      "display_name": "波普鹿",
+      "before": {
+        "physical_attack": 79,
+        "magic_attack": 21,
+        "stats_total": 499
+      },
+      "after": {
+        "physical_attack": 79,
+        "magic_attack": 21,
+        "stats_total": 499
+      }
+    },
+    {
+      "display_name": "幻影荆棘",
+      "before": {
+        "hp": 121,
+        "physical_attack": 74,
+        "magic_attack": 74,
+        "magic_defense": 138,
+        "stats_total": 559
+      },
+      "after": {
+        "hp": 121,
+        "physical_attack": 74,
+        "magic_attack": 74,
+        "magic_defense": 138,
+        "stats_total": 559
+      }
+    }
+  ],
+  "trait_changed": [
+    {
+      "display_name": "寂灭骨龙",
+      "before": "力竭4回合后复活。",
+      "after": "力竭4回合后复活。"
+    },
+    {
+      "display_name": "落陨星兔",
+      "before": "在场时，双方回合结束时触发的效果触发次数-1；不影响天气效果。",
+      "after": "在场时，双方回合结束时触发的效果触发次数-1；不影响天气效果。"
+    }
+  ]
+}

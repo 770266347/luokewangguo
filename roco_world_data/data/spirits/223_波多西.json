@@ -1,0 +1,515 @@
+{
+  "number": "223",
+  "name": "波多西",
+  "variant": null,
+  "display_name": "波多西",
+  "detail_status": "detail",
+  "attributes": [
+    "机械",
+    "地"
+  ],
+  "stats_total": 573,
+  "hp": 106,
+  "physical_attack": 122,
+  "magic_attack": 43,
+  "physical_defense": 136,
+  "magic_defense": 116,
+  "speed": 50,
+  "skills": [
+    {
+      "level": "1",
+      "name": "先发制人",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 55,
+      "description": "✦造成物理伤害，先手+1。"
+    },
+    {
+      "level": "1",
+      "name": "啮合传递",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，本技能位于1号或3号位时额外获得物攻+60%，传动1。"
+    },
+    {
+      "level": "6",
+      "name": "能量守恒",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：两侧技能能耗永久-1。"
+    },
+    {
+      "level": "8",
+      "name": "齿轮扭矩",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦造成物伤，每回合位置发生变化时，本技能威力永久+20。"
+    },
+    {
+      "level": "11",
+      "name": "轴承支撑",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦主动：本技能被动额外-1能耗，被动：两侧技能能耗-1，传动1。"
+    },
+    {
+      "level": "17",
+      "name": "鸣沙陷阱",
+      "attributes": [
+        "地"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦造成物伤，物防比敌方越高，本次技能威力越高。"
+    },
+    {
+      "level": "23",
+      "name": "蓄势待发",
+      "attributes": [
+        "地"
+      ],
+      "cost": 4,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得1层蓄势印记。"
+    },
+    {
+      "level": "24",
+      "name": "壁垒",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤90%，应对攻击：防御技能冷却-1。"
+    },
+    {
+      "level": "26",
+      "name": "钢钻",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 4,
+      "category": "物攻",
+      "power": 0,
+      "description": "✦造成物伤，技能威力为两侧技能威力和的三分之一，传动1。"
+    },
+    {
+      "level": "33",
+      "name": "齿轮切开",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 5,
+      "category": "物攻",
+      "power": 130,
+      "description": "✦造成物伤，本技能位于1号或3号位时能耗-2，传动1。"
+    },
+    {
+      "level": "35",
+      "name": "岩土暴击",
+      "attributes": [
+        "地"
+      ],
+      "cost": 8,
+      "category": "物攻",
+      "power": 140,
+      "description": "✦造成物伤，每被攻击1次。本技能能耗永久-1。"
+    },
+    {
+      "level": "37",
+      "name": "地震",
+      "attributes": [
+        "地"
+      ],
+      "cost": 10,
+      "category": "物攻",
+      "power": 190,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": "48",
+      "name": "地刺",
+      "attributes": [
+        "地"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 95,
+      "description": "✦造成物伤，应对状态：额外打断被应对技能。"
+    }
+  ],
+  "bloodline_skills": [
+    {
+      "level": null,
+      "name": "冥想",
+      "attributes": [
+        "幻"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：敌方获得2层星陨印记。"
+    },
+    {
+      "level": null,
+      "name": "升龙咆哮",
+      "attributes": [
+        "龙"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 200,
+      "description": "✦蓄力，对敌方造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "反击拳",
+      "attributes": [
+        "武"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 25,
+      "description": "✦造成物伤，2连击，若后手攻击，改为3连击。"
+    },
+    {
+      "level": null,
+      "name": "掩护",
+      "attributes": [
+        "虫"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
+    },
+    {
+      "level": null,
+      "name": "水泡盾",
+      "attributes": [
+        "水"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己获得魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "溃烂触碰",
+      "attributes": [
+        "毒"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "火焰护盾",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：敌方获得6层灼烧。"
+    },
+    {
+      "level": null,
+      "name": "灵媒",
+      "attributes": [
+        "幽"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "碰爪",
+      "attributes": [
+        "萌"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "等价交换",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤90%，应对攻击：自己获得50%吸血。"
+    },
+    {
+      "level": null,
+      "name": "羽翼庇护",
+      "attributes": [
+        "翼"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：自己获得连击数+3。"
+    },
+    {
+      "level": null,
+      "name": "蜡质膜",
+      "attributes": [
+        "草"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：回复3能量。"
+    },
+    {
+      "level": null,
+      "name": "跺地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 80,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "透射",
+      "attributes": [
+        "光"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "✦对敌方精灵造成物理伤害。"
+    },
+    {
+      "level": null,
+      "name": "金属噪音",
+      "attributes": [
+        "机械"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "防反",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：自己获得物攻和魔攻+40%。"
+    },
+    {
+      "level": null,
+      "name": "集中",
+      "attributes": [
+        "电"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：自己回合结束返场。"
+    },
+    {
+      "level": null,
+      "name": "雪替身",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：回复能量，回复值等于被应对技能能耗的2倍。"
+    }
+  ],
+  "skill_stone_skills": [
+    {
+      "level": null,
+      "name": "不动如山",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤90%，应对攻击。"
+    },
+    {
+      "level": null,
+      "name": "刺盾",
+      "attributes": [
+        "地"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击：敌方获得物攻-70%。"
+    },
+    {
+      "level": null,
+      "name": "取念",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦每回合随机变成敌方任意精灵的技能，且该技能能耗-2。"
+    },
+    {
+      "level": null,
+      "name": "吓退",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：敌方脱离。"
+    },
+    {
+      "level": null,
+      "name": "嗜痛",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，应对攻击：期间自己每次受到伤害，获得双攻+40%。"
+    },
+    {
+      "level": null,
+      "name": "彼岸之手",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 10,
+      "category": "物攻",
+      "power": 150,
+      "description": "✦造成物伤，自己每失去10%生命，本技能能耗-1。"
+    },
+    {
+      "level": null,
+      "name": "有效预防",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤50%，应对攻击：下一次行动获得先手+1。"
+    },
+    {
+      "level": null,
+      "name": "棘刺",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得1层棘刺印记。"
+    },
+    {
+      "level": null,
+      "name": "虚假破产",
+      "attributes": [
+        "恶"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤80%，能量不足时，消耗5%生命代替1能量，应对攻击。"
+    },
+    {
+      "level": null,
+      "name": "连续爪击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 30,
+      "description": "✦造成物伤，2连击，应对状态：本次技能连击数翻倍。"
+    },
+    {
+      "level": null,
+      "name": "遁地",
+      "attributes": [
+        "地"
+      ],
+      "cost": 3,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤50%并脱离，应对攻击。"
+    },
+    {
+      "level": null,
+      "name": "重击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "物攻",
+      "power": 110,
+      "description": "✦造成物伤，每次使用后，本技能能耗永久+1。"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    }
+  ],
+  "evolution_chain": "32 / 48",
+  "obtain_method": "行踪神秘",
+  "trait_name": "定向精炼",
+  "trait_description": "己方精灵每使用1次防御技能，自己入场时机械系和地面系技能威力+10%。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/9/9b/hxurck559b80j25wgnn3rnydhoupa4z.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E6%B3%A2%E5%A4%9A%E8%A5%BF",
+  "source_updated_at": "2026-04-02"
+}

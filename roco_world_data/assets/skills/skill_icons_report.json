@@ -1,0 +1,13 @@
+{
+  "total_skills": 487,
+  "existing": 81,
+  "downloaded": 405,
+  "available": 486,
+  "failed_count": 1,
+  "failed": [
+    {
+      "skill_name": "铁蒺藜",
+      "error": "imageinfo missing"
+    }
+  ]
+}

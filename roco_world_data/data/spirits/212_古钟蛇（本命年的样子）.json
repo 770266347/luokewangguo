@@ -1,0 +1,28 @@
+{
+  "number": "212",
+  "name": "古钟蛇",
+  "variant": "本命年的样子",
+  "display_name": "古钟蛇（本命年的样子）",
+  "detail_status": "detail",
+  "attributes": [
+    "萌",
+    "毒"
+  ],
+  "stats_total": 0,
+  "hp": 0,
+  "physical_attack": 0,
+  "magic_attack": 0,
+  "physical_defense": 0,
+  "magic_defense": 0,
+  "speed": 0,
+  "skills": [],
+  "bloodline_skills": [],
+  "skill_stone_skills": [],
+  "evolution_chain": "38",
+  "obtain_method": "",
+  "trait_name": "拨浪鼓",
+  "trait_description": "己方精灵每使用1次状态技能，自己入场时毒系和萌系技能威力+10。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/2/29/92ctyiwyp22v61ftupu4836hao5y4fa.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E5%8F%A4%E9%92%9F%E8%9B%87%EF%BC%88%E6%9C%AC%E5%91%BD%E5%B9%B4%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%89",
+  "source_updated_at": "2026-03-26"
+}

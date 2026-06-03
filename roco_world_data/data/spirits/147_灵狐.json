@@ -1,0 +1,210 @@
+{
+  "number": "147",
+  "name": "灵狐",
+  "variant": null,
+  "display_name": "灵狐",
+  "detail_status": "rocodex_fallback",
+  "attributes": [
+    "火",
+    "冰"
+  ],
+  "stats_total": 347,
+  "hp": null,
+  "physical_attack": null,
+  "magic_attack": null,
+  "physical_defense": null,
+  "magic_defense": null,
+  "speed": null,
+  "skills": [
+    {
+      "level": null,
+      "name": "充分燃烧",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": null,
+      "description": "使敌方身上的灼烧翻倍，并触发1次灼烧伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "冬至",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 7,
+      "category": "状态",
+      "power": null,
+      "description": "将天气改为暴风雪，持续8回合。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "冰点",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": null,
+      "description": "敌方获得5层冻结，应对防御：额外获得5层。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "冷风",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "对敌方精灵造成魔法伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "打雪仗",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 45,
+      "description": "造成魔伤，2连击。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "易燃物质",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 30,
+      "description": "造成魔伤，2连击，每次连击使敌方获得2层灼烧。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "暴风雪",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 85,
+      "description": "造成物伤，敌方获得1层冻结。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "火焰切割",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "对敌方精灵造成物理伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "火焰护盾",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": null,
+      "description": "减伤70%，应对攻击：敌方获得4层灼烧。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "炎枪",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 100,
+      "description": "对敌方精灵造成魔法伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "热身",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": null,
+      "description": "下一次攻击时，技能威力翻倍，应对防御：改为威力变为4倍。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "焚烧烙印",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": null,
+      "description": "驱散双方所有印记，每驱散1层，敌方获得5层灼烧。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "爆裂飞弹",
+      "attributes": [
+        "火"
+      ],
+      "cost": 7,
+      "category": "魔攻",
+      "power": 160,
+      "description": "对敌方精灵造成魔法伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": null,
+      "description": "减伤70%，应对攻击。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "霜降",
+      "attributes": [
+        "冰"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": null,
+      "description": "敌方获得4层冻结效果。",
+      "source": "RocoDex"
+    }
+  ],
+  "bloodline_skills": [],
+  "skill_stone_skills": [],
+  "evolution_chain": "",
+  "obtain_method": null,
+  "trait_name": "灵魂灼伤",
+  "trait_description": "冰系技能能使敌方获得4层灼烧，火系技能能使敌方获得2层冻结。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/0/0a/nmkg7ux0y9xb2o2q92ircdz5t11die4.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E7%81%B5%E7%8B%90",
+  "source_updated_at": null,
+  "fallback_source_url": "https://rocodex.org/zh/pokedex/233/"
+}

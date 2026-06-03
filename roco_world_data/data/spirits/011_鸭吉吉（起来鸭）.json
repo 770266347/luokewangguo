@@ -1,0 +1,171 @@
+{
+  "number": "011",
+  "name": "鸭吉吉",
+  "variant": "起来鸭",
+  "display_name": "鸭吉吉（起来鸭）",
+  "detail_status": "detail",
+  "attributes": [
+    "普通"
+  ],
+  "stats_total": 578,
+  "hp": 107,
+  "physical_attack": 53,
+  "magic_attack": 125,
+  "physical_defense": 80,
+  "magic_defense": 113,
+  "speed": 100,
+  "skills": [
+    {
+      "level": null,
+      "name": "休息回复",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己回复30%生命。"
+    },
+    {
+      "level": null,
+      "name": "伺机而动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦下一次攻击时，技能威力+70。"
+    },
+    {
+      "level": null,
+      "name": "吓退",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 2,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤60%，应对攻击：敌方脱离。"
+    },
+    {
+      "level": null,
+      "name": "咆哮",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦敌方获得物攻-130%。"
+    },
+    {
+      "level": null,
+      "name": "快速移动",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得速度+80，应对防御：改为速度+160。"
+    },
+    {
+      "level": null,
+      "name": "拍击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 65,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "蓄能轰击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 6,
+      "category": "魔攻",
+      "power": 130,
+      "description": "✦造成魔伤，每使用1次普通系技能，本技能能耗永久-2。"
+    },
+    {
+      "level": null,
+      "name": "许愿星",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "魔攻",
+      "power": 110,
+      "description": "✦对敌方精灵造成魔法伤害。"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": 0,
+      "description": "✦减伤70%，应对攻击。"
+    },
+    {
+      "level": null,
+      "name": "音波弹",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "魔攻",
+      "power": 60,
+      "description": "✦造成魔伤，1连击。"
+    },
+    {
+      "level": null,
+      "name": "魔法增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔攻+70%。"
+    },
+    {
+      "level": null,
+      "name": "魔能爆",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 0,
+      "category": "魔攻",
+      "power": 1,
+      "description": "✦造成魔伤，使用时消耗所有能量，消耗越高，伤害越高。"
+    },
+    {
+      "level": null,
+      "name": "鼓劲",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 3,
+      "category": "状态",
+      "power": 0,
+      "description": "✦自己获得魔防+170%。"
+    }
+  ],
+  "bloodline_skills": [],
+  "skill_stone_skills": [],
+  "evolution_chain": null,
+  "obtain_method": "果实",
+  "trait_name": "挺起胸脯",
+  "trait_description": "携带的能耗为1的技能，威力+50%。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/3/3c/j6agh5wzsw4sxhzzjatf0w077ff8a0t.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E9%B8%AD%E5%90%89%E5%90%89%EF%BC%88%E8%B5%B7%E6%9D%A5%E9%B8%AD%EF%BC%89",
+  "source_updated_at": "2026-05-15"
+}

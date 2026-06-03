@@ -1,0 +1,185 @@
+{
+  "number": "007",
+  "name": "火神",
+  "variant": null,
+  "display_name": "火神",
+  "detail_status": "rocodex_fallback",
+  "attributes": [
+    "火"
+  ],
+  "stats_total": 613,
+  "hp": null,
+  "physical_attack": null,
+  "magic_attack": null,
+  "physical_defense": null,
+  "magic_defense": null,
+  "speed": null,
+  "skills": [
+    {
+      "level": null,
+      "name": "力量增效",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": null,
+      "description": "自己获得物攻+100%。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "吹火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 50,
+      "description": "造成物伤，每次使用后，本技能威力永久+20。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "山火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 15,
+      "description": "造成物伤，每使用1次其他火系技能，本技能威力永久翻倍。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "怒火",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": null,
+      "description": "自己获得双攻+130%和双防-40%。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "持续高温",
+      "attributes": [
+        "火"
+      ],
+      "cost": 2,
+      "category": "魔攻",
+      "power": 70,
+      "description": "造成魔伤，应对状态：下次攻击技能威力翻倍。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "晒太阳",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": null,
+      "description": "驱散敌方所有增益。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "火云车",
+      "attributes": [
+        "火"
+      ],
+      "cost": 5,
+      "category": "物攻",
+      "power": 140,
+      "description": "对敌方精灵造成物理伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "火焰切割",
+      "attributes": [
+        "火"
+      ],
+      "cost": 3,
+      "category": "物攻",
+      "power": 100,
+      "description": "对敌方精灵造成物理伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "火苗",
+      "attributes": [
+        "火"
+      ],
+      "cost": null,
+      "category": "物攻",
+      "power": 30,
+      "description": "造成物伤，自己回复1能量。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "热身",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "状态",
+      "power": null,
+      "description": "下一次攻击时，技能威力翻倍，应对防御：改为威力变为4倍。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "猛烈撞击",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 60,
+      "description": "对敌方精灵造成物理伤害。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "闪燃",
+      "attributes": [
+        "火"
+      ],
+      "cost": 1,
+      "category": "物攻",
+      "power": 35,
+      "description": "造成物伤，应对状态：本次技能威力变为4倍。",
+      "source": "RocoDex"
+    },
+    {
+      "level": null,
+      "name": "防御",
+      "attributes": [
+        "普通"
+      ],
+      "cost": 1,
+      "category": "防御",
+      "power": null,
+      "description": "减伤70%，应对攻击。",
+      "source": "RocoDex"
+    }
+  ],
+  "bloodline_skills": [],
+  "skill_stone_skills": [],
+  "evolution_chain": "",
+  "obtain_method": null,
+  "trait_name": "助燃",
+  "trait_description": "使用火系技能后，获得双攻+20%。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/4/4f/627a47xjvghn9okifk66vhsx4uv7101.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E7%81%AB%E7%A5%9E",
+  "source_updated_at": null,
+  "fallback_source_url": "https://rocodex.org/zh/pokedex/9/"
+}

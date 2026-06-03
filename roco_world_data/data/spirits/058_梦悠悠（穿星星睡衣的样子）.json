@@ -1,0 +1,28 @@
+{
+  "number": "058",
+  "name": "梦悠悠",
+  "variant": "穿星星睡衣的样子",
+  "display_name": "梦悠悠（穿星星睡衣的样子）",
+  "detail_status": "detail",
+  "attributes": [
+    "幽",
+    "光"
+  ],
+  "stats_total": 0,
+  "hp": 0,
+  "physical_attack": 0,
+  "magic_attack": 0,
+  "physical_defense": 0,
+  "magic_defense": 0,
+  "speed": 0,
+  "skills": [],
+  "bloodline_skills": [],
+  "skill_stone_skills": [],
+  "evolution_chain": "32",
+  "obtain_method": "暂无  暂无获取方式",
+  "trait_name": "做噩梦",
+  "trait_description": "敌方精灵离场后，更换入场的精灵失去3能量。",
+  "image_url": "https://patchwiki.biligame.com/images/rocom/3/36/qdgt0km010092mc4x9hrypsz4evumt9.png",
+  "source_url": "https://wiki.biligame.com/rocom/%E6%A2%A6%E6%82%A0%E6%82%A0%EF%BC%88%E7%A9%BF%E6%98%9F%E6%98%9F%E7%9D%A1%E8%A1%A3%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%89",
+  "source_updated_at": "2026-03-26"
+}

@@ -1,5 +1,5 @@
-阵营,角色,本地精灵库名称,编号,本地参考图路径,精灵库页面,用途,备注
-主角,巨鼓象,巨鼓象,372,E:/luokewangguo/AI漫剧/002/04_图片/references/372_巨鼓象.png,https://wiki.biligame.com/rocom/%E5%B7%A8%E9%BC%93%E8%B1%A1,主角/战鼓车轮形态,先用精灵库原图生成第一张角色定稿图；后续镜头用定稿图为主参考
+﻿阵营,角色,本地精灵库名称,编号,本地参考图路径,精灵库页面,用途,备注
+主角,巨鼓象,巨鼓象,372,E:/luokewangguo/AI漫剧/002/04_图片/references/372_巨鼓象.png,https://wiki.biligame.com/rocom/%E5%B7%A8%E9%BC%93%E8%B1%A1,主角/倒立鼓轮形态,先用精灵库原图生成第一张角色定稿图；后续镜头用定稿图为主参考；倒立鼓轮动作像游戏内倒立鼓轮滚动，不是轮胎贴地滚动
 雪天队,队长,雪影娃娃,144,E:/luokewangguo/AI漫剧/002/04_图片/references/144_雪影娃娃.png,https://wiki.biligame.com/rocom/%E9%9B%AA%E5%BD%B1%E5%A8%83%E5%A8%83,雪天队发言代表,用第一张定稿图保持后续一致
 雪天队,队员,雪巨人,136,E:/luokewangguo/AI漫剧/002/04_图片/references/136_雪巨人.png,https://wiki.biligame.com/rocom/%E9%9B%AA%E5%B7%A8%E4%BA%BA,雪天队体型担当,被压成冰面时增加荒诞反差
 雪天队,队员,月牙雪熊,322,E:/luokewangguo/AI漫剧/002/04_图片/references/322_月牙雪熊.png,https://wiki.biligame.com/rocom/%E6%9C%88%E7%89%99%E9%9B%AA%E7%86%8A,雪天队可爱担当,适合滑冰/速冻地板笑点
@@ -9,3 +9,5 @@
 虫队,队长,女王蜂,084,E:/luokewangguo/AI漫剧/002/04_图片/references/084_女王蜂.png,https://wiki.biligame.com/rocom/%E5%A5%B3%E7%8E%8B%E8%9C%82,虫队发言代表/包围网,默认使用
 虫队,队员,花衣蝶,101,E:/luokewangguo/AI漫剧/002/04_图片/references/101_花衣蝶.png,https://wiki.biligame.com/rocom/%E8%8A%B1%E8%A1%A3%E8%9D%B6,虫队飞行视觉,让包围网更丰富
 虫队,队员,铠甲虫,284,E:/luokewangguo/AI漫剧/002/04_图片/references/284_铠甲虫.png,https://wiki.biligame.com/rocom/%E9%93%A0%E7%94%B2%E8%99%AB,虫队硬度担当,被吹散时形成反差
+
+

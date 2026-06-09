@@ -66,11 +66,11 @@ $metricInfo = @{
         Cache = "magic_defense_top{0}"
     }
     hp = @{
-        Label = "精力种族值"
-        Title = "洛克王国：世界 精力种族值 TOP {0}"
-        Subtitle = "按精力种族值降序排列；同值按种族值总和、速度、编号排序"
-        Csv = "洛克王国世界_精力种族值TOP{0}.csv"
-        Png = "洛克王国世界_精力种族值TOP{0}.png"
+        Label = "生命种族值"
+        Title = "洛克王国：世界 生命种族值 TOP {0}"
+        Subtitle = "按生命种族值降序排列；同值按种族值总和、速度、编号排序"
+        Csv = "洛克王国世界_生命种族值TOP{0}.csv"
+        Png = "洛克王国世界_生命种族值TOP{0}.png"
         Cache = "hp_top{0}"
     }
 }

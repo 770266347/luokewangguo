@@ -1,0 +1,8 @@
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/001_normalized.mp4'
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/002_normalized.mp4'
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/003_normalized.mp4'
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/004_normalized.mp4'
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/005_normalized.mp4'
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/006_normalized.mp4'
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/007_normalized.mp4'
+file 'E:/luokewangguo/AI漫剧/002/07_剪辑/normalized_segments/008_normalized.mp4'
